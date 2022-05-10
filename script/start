@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+
+set -e
+
+NETWORK_VOLUME_PATH="/Volumes/SG WD 2TB S"
+
+# Check that the drive is mounted
+if ! (mount | grep "on ${NETWORK_VOLUME_PATH}" > /dev/null); then
+    echo "ERROR: Please mount the external drive to ${NETWORK_VOLUME_PATH}"
+    exit 1
+fi
+
+# Spin up services
+NETWORK_VOLUME_PATH="${NETWORK_VOLUME_PATH}" docker-compose up -d
+
+# Open websites
+open http://localhost:8989
+open http://localhost:9117
+open http://localhost:8080

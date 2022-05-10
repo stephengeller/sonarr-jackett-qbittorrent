@@ -1,0 +1,125 @@
+(N) 2022-05-10T02:34:00 - qBittorrent v4.4.2 started
+(N) 2022-05-10T02:34:00 - Using config directory: /config/qBittorrent
+(I) 2022-05-10T02:34:00 - Trying to listen on: 0.0.0.0:6881,[::]:6881
+(N) 2022-05-10T02:34:00 - Peer ID: -qB4420-
+(N) 2022-05-10T02:34:00 - HTTP User-Agent is 'qBittorrent/4.4.2'
+(I) 2022-05-10T02:34:00 - DHT support [ON]
+(I) 2022-05-10T02:34:00 - Local Peer Discovery support [ON]
+(I) 2022-05-10T02:34:00 - PeX support [ON]
+(I) 2022-05-10T02:34:00 - Anonymous mode [OFF]
+(I) 2022-05-10T02:34:00 - Encryption support [ON]
+(W) 2022-05-10T02:34:00 - Couldn't load IP geolocation database. Reason: No such file or directory
+(N) 2022-05-10T02:34:00 - Using built-in Web UI.
+(W) 2022-05-10T02:34:00 - Couldn't load Web UI translation for selected locale (C).
+(N) 2022-05-10T02:34:00 - Web UI: Now listening on IP: *, port: 8080
+(I) 2022-05-10T02:34:00 - Successfully listening on IP: 127.0.0.1, port: TCP/6881
+(I) 2022-05-10T02:34:00 - Successfully listening on IP: 127.0.0.1, port: UTP/6881
+(I) 2022-05-10T02:34:00 - Successfully listening on IP: 172.20.0.4, port: TCP/6881
+(I) 2022-05-10T02:34:00 - Successfully listening on IP: 172.20.0.4, port: UTP/6881
+(I) 2022-05-10T02:34:02 - Detected external IP: 123.3.233.126
+(I) 2022-05-10T02:34:04 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sun May 1 01:22:46 2022.
+(I) 2022-05-10T02:34:04 - Successfully updated IP geolocation database.
+(N) 2022-05-10T02:34:40 - WebAPI login success. IP: ::ffff:172.20.0.1
+(N) 2022-05-10T02:35:05 - WebAPI login success. IP: ::ffff:172.20.0.2
+(N) 2022-05-10T02:35:55 - 'Atlanta.S03E01.Three.Slaps.720p.HDTV.x264-CRiMSON[TGx]' added to download list.
+(N) 2022-05-10T02:36:07 - 'Atlanta.S03E02.Sinterklaas.Is.Coming.to.Town.720p.HDTV.x264-CRiMSON[TGx]' added to download list.
+(N) 2022-05-10T02:36:19 - 'Atlanta.S03E03.The.Old.Man.and.the.Tree.720p.HDTV.x264-CRiMSON[TGx]' added to download list.
+(N) 2022-05-10T02:36:31 - 'Atlanta.S03E04.The.Big.Payback.720p.HDTV.x264-CRiMSON[TGx]' added to download list.
+(N) 2022-05-10T02:36:43 - 'Atlanta.S03E05.720p.WEB.h264-GOSSIP[TGx]' added to download list.
+(N) 2022-05-10T02:36:56 - 'Atlanta.S03E06.720p.WEB.H264-CAKES[TGx]' added to download list.
+(N) 2022-05-10T02:37:07 - 'Atlanta.S03E07.REPACK.720p.WEB.H264-PECULATE[TGx]' added to download list.
+(N) 2022-05-10T02:37:19 - 'Atlanta.S03E08.PROPER.720p.WEB.h264-GOSSIP[TGx]' added to download list.
+(I) 2022-05-10T02:38:01 - UPnP / NAT-PMP support [OFF]
+(N) 2022-05-10T02:39:09 - qBittorrent v4.4.2 started
+(N) 2022-05-10T02:39:09 - Using config directory: /config/qBittorrent
+(I) 2022-05-10T02:39:09 - Trying to listen on: 0.0.0.0:6881,[::]:6881
+(N) 2022-05-10T02:39:09 - Peer ID: -qB4420-
+(N) 2022-05-10T02:39:09 - HTTP User-Agent is 'qBittorrent/4.4.2'
+(I) 2022-05-10T02:39:09 - DHT support [ON]
+(I) 2022-05-10T02:39:09 - Local Peer Discovery support [ON]
+(I) 2022-05-10T02:39:09 - PeX support [ON]
+(I) 2022-05-10T02:39:09 - Anonymous mode [OFF]
+(I) 2022-05-10T02:39:09 - Encryption support [ON]
+(I) 2022-05-10T02:39:09 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sun May 1 01:22:46 2022.
+(N) 2022-05-10T02:39:09 - Using built-in Web UI.
+(W) 2022-05-10T02:39:09 - Couldn't load Web UI translation for selected locale (C).
+(N) 2022-05-10T02:39:09 - Web UI: Now listening on IP: *, port: 8080
+(I) 2022-05-10T02:39:09 - Successfully listening on IP: 127.0.0.1, port: TCP/6881
+(I) 2022-05-10T02:39:09 - Successfully listening on IP: 127.0.0.1, port: UTP/6881
+(I) 2022-05-10T02:39:09 - Successfully listening on IP: 172.20.0.3, port: TCP/6881
+(I) 2022-05-10T02:39:09 - Successfully listening on IP: 172.20.0.3, port: UTP/6881
+(I) 2022-05-10T02:39:09 - Detected external IP: 123.3.233.126
+(N) 2022-05-10T02:39:09 - 'Atlanta.S03E01.Three.Slaps.720p.HDTV.x264-CRiMSON[TGx]' restored.
+(C) 2022-05-10T02:39:09 - File sizes mismatch for torrent 'Atlanta.S03E01.Three.Slaps.720p.HDTV.x264-CRiMSON[TGx]'. Cannot proceed further.
+(N) 2022-05-10T02:39:09 - 'Atlanta.S03E02.Sinterklaas.Is.Coming.to.Town.720p.HDTV.x264-CRiMSON[TGx]' restored.
+(C) 2022-05-10T02:39:09 - File sizes mismatch for torrent 'Atlanta.S03E02.Sinterklaas.Is.Coming.to.Town.720p.HDTV.x264-CRiMSON[TGx]'. Cannot proceed further.
+(N) 2022-05-10T02:39:09 - 'Atlanta.S03E03.The.Old.Man.and.the.Tree.720p.HDTV.x264-CRiMSON[TGx]' restored.
+(C) 2022-05-10T02:39:09 - File sizes mismatch for torrent 'Atlanta.S03E03.The.Old.Man.and.the.Tree.720p.HDTV.x264-CRiMSON[TGx]'. Cannot proceed further.
+(N) 2022-05-10T02:39:09 - 'Atlanta.S03E04.The.Big.Payback.720p.HDTV.x264-CRiMSON[TGx]' restored.
+(N) 2022-05-10T02:39:09 - 'Atlanta.S03E05.720p.WEB.h264-GOSSIP[TGx]' restored.
+(N) 2022-05-10T02:39:09 - 'Atlanta.S03E06.720p.WEB.H264-CAKES[TGx]' restored.
+(N) 2022-05-10T02:39:09 - 'Atlanta.S03E07.REPACK.720p.WEB.H264-PECULATE[TGx]' restored.
+(N) 2022-05-10T02:39:09 - 'Atlanta.S03E08.PROPER.720p.WEB.h264-GOSSIP[TGx]' restored.
+(N) 2022-05-10T02:39:10 - WebAPI login success. IP: ::ffff:172.20.0.4
+(N) 2022-05-10T02:39:25 - WebAPI login success. IP: ::ffff:172.20.0.1
+(C) 2022-05-10T02:39:35 - File sizes mismatch for torrent 'Atlanta.S03E01.Three.Slaps.720p.HDTV.x264-CRiMSON[TGx]'. Cannot proceed further.
+(I) 2022-05-10T03:04:17 - UPnP / NAT-PMP support [OFF]
+(N) 2022-05-10T03:04:30 - qBittorrent v4.4.2 started
+(N) 2022-05-10T03:04:30 - Using config directory: /config/qBittorrent
+(I) 2022-05-10T03:04:30 - Trying to listen on: 0.0.0.0:6881,[::]:6881
+(N) 2022-05-10T03:04:30 - Peer ID: -qB4420-
+(N) 2022-05-10T03:04:30 - HTTP User-Agent is 'qBittorrent/4.4.2'
+(I) 2022-05-10T03:04:30 - DHT support [ON]
+(I) 2022-05-10T03:04:30 - Local Peer Discovery support [ON]
+(I) 2022-05-10T03:04:30 - PeX support [ON]
+(I) 2022-05-10T03:04:30 - Anonymous mode [OFF]
+(I) 2022-05-10T03:04:30 - Encryption support [ON]
+(I) 2022-05-10T03:04:31 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sun May 1 01:22:46 2022.
+(N) 2022-05-10T03:04:31 - Using built-in Web UI.
+(W) 2022-05-10T03:04:31 - Couldn't load Web UI translation for selected locale (C).
+(N) 2022-05-10T03:04:31 - Web UI: Now listening on IP: *, port: 8080
+(I) 2022-05-10T03:04:31 - Successfully listening on IP: 127.0.0.1, port: TCP/6881
+(I) 2022-05-10T03:04:31 - Successfully listening on IP: 127.0.0.1, port: UTP/6881
+(I) 2022-05-10T03:04:31 - Successfully listening on IP: 172.20.0.2, port: TCP/6881
+(I) 2022-05-10T03:04:31 - Successfully listening on IP: 172.20.0.2, port: UTP/6881
+(N) 2022-05-10T03:04:31 - 'Atlanta.S03E01.Three.Slaps.720p.HDTV.x264-CRiMSON[TGx]' restored.
+(C) 2022-05-10T03:04:31 - File sizes mismatch for torrent 'Atlanta.S03E01.Three.Slaps.720p.HDTV.x264-CRiMSON[TGx]'. Cannot proceed further.
+(N) 2022-05-10T03:04:31 - 'Atlanta.S03E02.Sinterklaas.Is.Coming.to.Town.720p.HDTV.x264-CRiMSON[TGx]' restored.
+(C) 2022-05-10T03:04:31 - File sizes mismatch for torrent 'Atlanta.S03E02.Sinterklaas.Is.Coming.to.Town.720p.HDTV.x264-CRiMSON[TGx]'. Cannot proceed further.
+(N) 2022-05-10T03:04:31 - 'Atlanta.S03E03.The.Old.Man.and.the.Tree.720p.HDTV.x264-CRiMSON[TGx]' restored.
+(C) 2022-05-10T03:04:31 - File sizes mismatch for torrent 'Atlanta.S03E03.The.Old.Man.and.the.Tree.720p.HDTV.x264-CRiMSON[TGx]'. Cannot proceed further.
+(N) 2022-05-10T03:04:31 - 'Atlanta.S03E04.The.Big.Payback.720p.HDTV.x264-CRiMSON[TGx]' restored.
+(C) 2022-05-10T03:04:31 - File sizes mismatch for torrent 'Atlanta.S03E04.The.Big.Payback.720p.HDTV.x264-CRiMSON[TGx]'. Cannot proceed further.
+(N) 2022-05-10T03:04:31 - 'Atlanta.S03E07.REPACK.720p.WEB.H264-PECULATE[TGx]' restored.
+(C) 2022-05-10T03:04:31 - File sizes mismatch for torrent 'Atlanta.S03E07.REPACK.720p.WEB.H264-PECULATE[TGx]'. Cannot proceed further.
+(N) 2022-05-10T03:04:31 - 'Atlanta.S03E06.720p.WEB.H264-CAKES[TGx]' restored.
+(C) 2022-05-10T03:04:31 - File sizes mismatch for torrent 'Atlanta.S03E06.720p.WEB.H264-CAKES[TGx]'. Cannot proceed further.
+(N) 2022-05-10T03:04:31 - 'Atlanta.S03E08.PROPER.720p.WEB.h264-GOSSIP[TGx]' restored.
+(C) 2022-05-10T03:04:31 - File sizes mismatch for torrent 'Atlanta.S03E08.PROPER.720p.WEB.h264-GOSSIP[TGx]'. Cannot proceed further.
+(N) 2022-05-10T03:04:31 - 'Atlanta.S03E05.720p.WEB.h264-GOSSIP[TGx]' restored.
+(C) 2022-05-10T03:04:31 - File sizes mismatch for torrent 'Atlanta.S03E05.720p.WEB.h264-GOSSIP[TGx]'. Cannot proceed further.
+(N) 2022-05-10T03:04:31 - WebAPI login success. IP: ::ffff:172.20.0.4
+(I) 2022-05-10T03:04:31 - Detected external IP: 123.3.233.126
+(N) 2022-05-10T03:08:25 - WebAPI login success. IP: ::ffff:172.20.0.1
+(N) 2022-05-10T03:13:28 - 'Atlanta.S03E01.Three.Slaps.720p.HDTV.x264-CRiMSON[TGx]' was removed from the transfer list and hard disk.
+(N) 2022-05-10T03:13:28 - 'Atlanta.S03E03.The.Old.Man.and.the.Tree.720p.HDTV.x264-CRiMSON[TGx]' was removed from the transfer list and hard disk.
+(N) 2022-05-10T03:13:28 - 'Atlanta.S03E07.REPACK.720p.WEB.H264-PECULATE[TGx]' was removed from the transfer list and hard disk.
+(N) 2022-05-10T03:13:28 - 'Atlanta.S03E06.720p.WEB.H264-CAKES[TGx]' was removed from the transfer list and hard disk.
+(N) 2022-05-10T03:13:28 - 'Atlanta.S03E08.PROPER.720p.WEB.h264-GOSSIP[TGx]' was removed from the transfer list and hard disk.
+(N) 2022-05-10T03:13:28 - 'Atlanta.S03E05.720p.WEB.h264-GOSSIP[TGx]' was removed from the transfer list and hard disk.
+(N) 2022-05-10T03:13:28 - 'Atlanta.S03E02.Sinterklaas.Is.Coming.to.Town.720p.HDTV.x264-CRiMSON[TGx]' was removed from the transfer list and hard disk.
+(N) 2022-05-10T03:13:28 - 'Atlanta.S03E04.The.Big.Payback.720p.HDTV.x264-CRiMSON[TGx]' was removed from the transfer list and hard disk.
+(N) 2022-05-10T03:14:57 - 'Atlanta.S03E07.REPACK.720p.WEB.H264-PECULATE[TGx]' added to download list.
+(N) 2022-05-10T03:20:50 - 'Taskmaster.S07E06.720p.WEB.h264-DiRT[TGx]' added to download list.
+(N) 2022-05-10T03:21:02 - 'Taskmaster.S07E07.720p.WEB.h264-DiRT[TGx]' added to download list.
+(N) 2022-05-10T03:21:14 - 'Taskmaster.S07E08.720p.WEB.h264-DiRT[TGx]' added to download list.
+(N) 2022-05-10T03:21:26 - 'Taskmaster.S07E09.720p.WEB.h264-DiRT[TGx]' added to download list.
+(N) 2022-05-10T03:21:38 - 'Taskmaster.S07E10.720p.WEB.h264-DiRT[TGx]' added to download list.
+(N) 2022-05-10T03:21:51 - 'Barry.S01E06.1080p.WEB.H264-DEFLATE[rarbg]' added to download list.
+(N) 2022-05-10T03:22:02 - 'Barry.S02E05.1080p.WEB.H264-MEMENTO[TGx]' added to download list.
+(N) 2022-05-10T03:22:14 - 'Barry.S03E01.1080p.WEB.H264-CAKES[rarbg]' added to download list.
+(N) 2022-05-10T03:22:26 - 'Barry.S01E07.1080p.WEB.H264-DEFLATE[TGx]' added to download list.
+(N) 2022-05-10T03:22:38 - 'Barry.S02E06.The.Truth.Has.a.Ring.to.It.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]' added to download list.
+(N) 2022-05-10T03:22:50 - 'Barry.S03E02.1080p.WEB.H264-CAKES[rarbg]' added to download list.
+(N) 2022-05-10T03:23:02 - 'Barry.S01E08.720p.WEB.H264-DEFLATE[eztv].mkv' added to download list.
+(N) 2022-05-10T03:23:15 - 'Barry.S02E07.1080p.WEB.H264-MEMENTO[TGx]' added to download list.
