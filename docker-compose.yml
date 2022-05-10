@@ -10,9 +10,13 @@ services:
       - TZ=Europe/London
     volumes:
       - "${NETWORK_VOLUME_PATH}/Plex/TV:/Plex/TV"
+      - ./sonarr/config:/config
+      - ~/Downloads/Torrents/qbittorrent:/downloads
     ports:
       - 8989:8989
     restart: unless-stopped
+
+
   jackett:
     image: lscr.io/linuxserver/jackett:latest
     container_name: jackett
@@ -23,13 +27,17 @@ services:
 #      - AUTO_UPDATE=true #optional
 #      - RUN_OPTS=<run options here> #optional
     volumes:
-      - ./jackett/config:/jackett/config
+#      - ./jackett/config:/config
+      - ./jackett-config:/config
       - "${NETWORK_VOLUME_PATH}/Jackett:/downloads/jackett"
     ports:
       - 9117:9117
     restart: unless-stopped
+
+
   qbittorrent:
     image: lscr.io/linuxserver/qbittorrent:latest
+#    user: root:root
     container_name: qbittorrent
     environment:
       - PUID=1000
@@ -38,7 +46,8 @@ services:
       - WEBUI_PORT=8080
     volumes:
       - ./qbittorrent/config:/config
-      - ${NETWORK_VOLUME_PATH}/qbittorrent:/downloads/qbittorrent
+      - ~/Downloads/Torrents/qbittorrent:/downloads
+      - "${NETWORK_VOLUME_PATH}/Plex/TV:/Plex/TV"
     ports:
       - 8080:8080
       - 6881:6881

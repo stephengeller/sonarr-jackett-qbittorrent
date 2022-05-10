@@ -10,13 +10,5 @@ if ! (mount | grep "on ${NETWORK_VOLUME_PATH}" > /dev/null); then
     exit 1
 fi
 
-# Check that all mounted volumes have correct permissions
-# sudo chmod 777 ~/Downloads/Torrents/qbittorrent
-
 # Spin up services
-NETWORK_VOLUME_PATH="${NETWORK_VOLUME_PATH}" docker-compose up -d
-
-# Open websites
-#open http://localhost:8989
-#open http://localhost:9117
-#open http://localhost:8080
+NETWORK_VOLUME_PATH="${NETWORK_VOLUME_PATH}" docker-compose up -d --force-recreate --build
