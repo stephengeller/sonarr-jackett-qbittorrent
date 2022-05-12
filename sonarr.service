@@ -1,0 +1,14 @@
+[Unit]
+Description=Sonarr Jackett qBitTorrent
+PartOf=docker.service
+After=docker.service
+
+[Service]
+Type=oneshot
+RemainAfterExit=true
+WorkingDirectory=/home/stephen/code/sonarr-jackett-qbittorrent
+ExecStart=/home/stephen/code/sonarr-jackett-qbittorrent/script/start /home/stephen/shield /home/stephen/Downloads/qbittorrent
+ExecStop=/home/stephen/code/sonarr-jackett-qbittorrent/script/stop /home/stephen/shield /home/stephen/Downloads/qbittorrent
+
+[Install]
+WantedBy=multi-user.target

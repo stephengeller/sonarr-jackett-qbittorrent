@@ -9,9 +9,9 @@ services:
       - PGID=1000
       - TZ=Europe/London
     volumes:
-      - "${NETWORK_VOLUME_PATH}/Plex/TV:/Plex/TV"
       - ./sonarr/config:/config
-      - ~/Downloads/Torrents/qbittorrent:/downloads
+      - "${NETWORK_VOLUME_PATH}/Plex/TV:/Plex/TV"
+      - "${QBITTORRENT_DOWNLOAD_PATH}:/downloads"
     ports:
       - 8989:8989
     restart: unless-stopped
@@ -48,7 +48,7 @@ services:
       - "${QBITTORRENT_DOWNLOAD_PATH}:/downloads"
       - "${NETWORK_VOLUME_PATH}/Plex/TV:/Plex/TV"
     ports:
-      - 8080:8080
-      - 6881:6881
-      - 6881:6881/udp
+      - "8080:8080"
+      - "6881:6881"
+      - "6881:6881/udp"
     restart: unless-stopped
