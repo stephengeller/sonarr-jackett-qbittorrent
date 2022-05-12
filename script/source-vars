@@ -1,0 +1,29 @@
+#!/usr/bin/env bash
+
+set -e
+
+PWD="$( cd -- "$(dirname "$0")" >/dev/null 2>&1 ; pwd -P )"
+
+DEFAULT_NETWORK_VOLUME_PATH="/Volumes/SG WD 2TB S"
+DEFAULT_QBITTORRENT_DOWNLOAD_PATH="/Downloads/Torrents/qbittorrent"
+
+if [ -z ${NETWORK_VOLUME_PATH} ]; then
+  NETWORK_VOLUME_PATH=${1:-${DEFAULT_NETWORK_VOLUME_PATH}}
+fi
+
+if [ -z ${QBITTORRENT_DOWNLOAD_PATH} ]; then
+  QBITTORRENT_DOWNLOAD_PATH=~${2:${DEFAULT_QBITTORRENT_DOWNLOAD_PATH}}
+fi
+
+echo Network volume: "$NETWORK_VOLUME_PATH", qBittorrent downlod path: "$QBITTORRENT_DOWNLOAD_PATH"
+
+# Check that the drive is mounted
+if ! (mount | grep "on ${NETWORK_VOLUME_PATH}" > /dev/null); then
+    echo -e "\033[31;1mERROR: \033[0;31mPlease mount the external drive to ${NETWORK_VOLUME_PATH}\033[0m"
+    exit 1
+fi
+
+if [ ! -d "$QBITTORRENT_DOWNLOAD_PATH" ]; then
+  echo -e "\033[31;1mERROR: \033[0;31mTemporary download path ${QBITTORRENT_DOWNLOAD_PATH} does not exist\033[0m"
+  exit 1
+fi

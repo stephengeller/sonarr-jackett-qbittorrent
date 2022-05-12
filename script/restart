@@ -2,13 +2,9 @@
 
 set -e
 
-NETWORK_VOLUME_PATH="/Volumes/SG WD 2TB S"
+PWD="$( cd -- "$(dirname "$0")" >/dev/null 2>&1 ; pwd -P )"
 
-# Check that the drive is mounted
-if ! (mount | grep "on ${NETWORK_VOLUME_PATH}" > /dev/null); then
-    echo "ERROR: Please mount the external drive to ${NETWORK_VOLUME_PATH}"
-    exit 1
-fi
+"${PWD}"/source-vars
 
 # Spin up services
 sudo NETWORK_VOLUME_PATH="${NETWORK_VOLUME_PATH}" QBITTORRENT_DOWNLOAD_PATH="${QBITTORRENT_DOWNLOAD_PATH}" docker-compose up -d --force-recreate --build

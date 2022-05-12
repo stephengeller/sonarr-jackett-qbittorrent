@@ -2,8 +2,9 @@
 
 set -e
 
-NETWORK_VOLUME_PATH=${1:-"/Volumes/SG WD 2TB S"}
-QBITTORRENT_DOWNLOAD_PATH=~${2:"/Downloads/Torrents/qbittorrent"}
+PWD="$( cd -- "$(dirname "$0")" >/dev/null 2>&1 ; pwd -P )"
+
+"${PWD}"/source-vars
 
 # Turn off services
 sudo NETWORK_VOLUME_PATH="${NETWORK_VOLUME_PATH}" \
