@@ -5,17 +5,17 @@ set -e
 PWD="$( cd -- "$(dirname "$0")" >/dev/null 2>&1 ; pwd -P )"
 
 DEFAULT_NETWORK_VOLUME_PATH="/Volumes/SG WD 2TB S"
-DEFAULT_QBITTORRENT_DOWNLOAD_PATH="/Downloads/Torrents/qbittorrent"
+DEFAULT_QBITTORRENT_DOWNLOAD_PATH="/Users/stephengeller/Downloads/Torrents/qbittorrent"
 
-if [ -z ${NETWORK_VOLUME_PATH} ]; then
+if [ -z $NETWORK_VOLUME_PATH ]; then
   export NETWORK_VOLUME_PATH=${1:-${DEFAULT_NETWORK_VOLUME_PATH}}
 fi
 
-if [ -z ${QBITTORRENT_DOWNLOAD_PATH} ]; then
-  export QBITTORRENT_DOWNLOAD_PATH=~${2:${DEFAULT_QBITTORRENT_DOWNLOAD_PATH}}
+if [ -z $QBITTORRENT_DOWNLOAD_PATH ]; then
+  export QBITTORRENT_DOWNLOAD_PATH=${2:-${DEFAULT_QBITTORRENT_DOWNLOAD_PATH}}
 fi
 
-echo Network volume: "$NETWORK_VOLUME_PATH", qBittorrent downlod path: "$QBITTORRENT_DOWNLOAD_PATH"
+echo NETWORK_VOLUME_PATH: "$NETWORK_VOLUME_PATH", QBITTORRENT_DOWNLOAD_PATH: "$QBITTORRENT_DOWNLOAD_PATH"
 
 # Check that the drive is mounted
 if ! (mount | grep "on ${NETWORK_VOLUME_PATH}" > /dev/null); then

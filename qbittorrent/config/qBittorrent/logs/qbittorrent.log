@@ -443,3 +443,81 @@
 (I) 2022-05-12T12:43:49 - Detected external IP: 123.3.233.126
 (N) 2022-05-12T12:43:51 - WebAPI login success. IP: ::ffff:192.168.0.3
 (I) 2022-05-12T12:43:51 - UPnP / NAT-PMP support [OFF]
+(N) 2022-05-12T13:03:14 - qBittorrent v4.4.2 started
+(N) 2022-05-12T13:03:14 - Using config directory: /config/qBittorrent
+(I) 2022-05-12T13:03:14 - Trying to listen on: 0.0.0.0:6881,[::]:6881
+(N) 2022-05-12T13:03:14 - Peer ID: -qB4420-
+(N) 2022-05-12T13:03:14 - HTTP User-Agent is 'qBittorrent/4.4.2'
+(I) 2022-05-12T13:03:14 - DHT support [ON]
+(I) 2022-05-12T13:03:14 - Local Peer Discovery support [ON]
+(I) 2022-05-12T13:03:14 - PeX support [ON]
+(I) 2022-05-12T13:03:14 - Anonymous mode [OFF]
+(I) 2022-05-12T13:03:14 - Encryption support [ON]
+(I) 2022-05-12T13:03:14 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sun May 1 01:22:46 2022.
+(N) 2022-05-12T13:03:14 - Using built-in Web UI.
+(W) 2022-05-12T13:03:14 - Couldn't load Web UI translation for selected locale (C).
+(N) 2022-05-12T13:03:14 - Web UI: Now listening on IP: *, port: 8080
+(I) 2022-05-12T13:03:14 - Successfully listening on IP: 127.0.0.1, port: TCP/6881
+(I) 2022-05-12T13:03:14 - Successfully listening on IP: 127.0.0.1, port: UTP/6881
+(I) 2022-05-12T13:03:14 - Successfully listening on IP: 192.168.32.3, port: TCP/6881
+(I) 2022-05-12T13:03:14 - Successfully listening on IP: 192.168.32.3, port: UTP/6881
+(N) 2022-05-12T13:03:14 - 'BoJack.Horseman.S02E02.Yesterdayland.1080p.NF.WEBRip.DD5.1.x264-SNEAkY' restored.
+(N) 2022-05-12T13:03:14 - 'Bojack.Horseman.S04E03.1080p.WEB.x264-STRiFE[rarbg]' restored.
+(N) 2022-05-12T13:03:14 - 'BoJack.Horseman.S02E03.Still.Broken.1080p.NF.WEBRip.DD5.1.x264-SNEAkY' restored.
+(N) 2022-05-12T13:03:14 - 'BoJack.Horseman.S03E01.Start.Spreading.The.News.720p.WEB.H264-EQUATION[eztv.io].mkv' restored.
+(N) 2022-05-12T13:03:14 - 'Bojack.Horseman.S04E04.1080p.WEB.x264-STRiFE[rarbg]' restored.
+(N) 2022-05-12T13:03:14 - 'BoJack.Horseman.S02E05.Chickens.1080p.NF.WEBRip.DD5.1.x264-SNEAkY' restored.
+(N) 2022-05-12T13:03:14 - 'BoJack.Horseman.S03E02.The.BoJack.Horseman.Show.720p.WEB.H264-EQUATION[eztv.io].mkv' restored.
+(N) 2022-05-12T13:03:14 - 'Bojack.Horseman.S04E05.1080p.WEB.x264-STRiFE[rarbg]' restored.
+(N) 2022-05-12T13:03:14 - 'BoJack.Horseman.S02E06.Higher.Love.1080p.NF.WEBRip.DD5.1.x264-SNEAkY' restored.
+(N) 2022-05-12T13:03:14 - 'BoJack.Horseman.S03E03.BoJack.Kills.720p.WEB.H264-EQUATION[eztv.io].mkv' restored.
+(N) 2022-05-12T13:03:14 - 'Bojack.Horseman.S04E06.1080p.WEB.x264-STRiFE[rarbg]' restored.
+(N) 2022-05-12T13:03:14 - 'BoJack.Horseman.S02E07.Hank.After.Dark.1080p.NF.WEBRip.DD5.1.x264-SNEAkY' restored.
+(N) 2022-05-12T13:03:14 - 'BoJack.Horseman.S03E04.Fish.Out.Of.Water.720p.WEB.H264-EQUATION[eztv.io].mkv' restored.
+(N) 2022-05-12T13:03:14 - 'Bojack.Horseman.S04E07.1080p.WEB.x264-STRiFE[rarbg]' restored.
+(N) 2022-05-12T13:03:14 - 'BoJack.Horseman.S02E09.The.Shot.1080p.NF.WEBRip.DD5.1.x264-SNEAkY' restored.
+(N) 2022-05-12T13:03:14 - 'Bojack.Horseman.S03E05.WEBRip.X264-RARBG' restored.
+(N) 2022-05-12T13:03:14 - 'Bojack.Horseman.S04E08.1080p.WEB.x264-STRiFE[rarbg]' restored.
+(N) 2022-05-12T13:03:14 - 'BoJack.Horseman.S02E10.Yes.And.1080p.NF.WEBRip.DD5.1.x264-SNEAkY' restored.
+(N) 2022-05-12T13:03:14 - 'Bojack.Horseman.S04E09.1080p.WEB.x264-STRiFE[rarbg]' restored.
+(N) 2022-05-12T13:03:14 - 'BoJack.Horseman.S02E11.Escape.from.LA.1080p.NF.WEBRip.DD5.1.x264-SNEAkY' restored.
+(N) 2022-05-12T13:03:14 - 'BoJack.Horseman.S06.COMPLETE.1080p.NF.WEB-DL.DD5.1.x264-JETIX[TGx]' restored.
+(N) 2022-05-12T13:03:14 - 'Bojack.Horseman.S04E10.1080p.WEB.x264-STRiFE[rarbg]' restored.
+(N) 2022-05-12T13:03:14 - 'BoJack.Horseman.S02E12.Out.to.Sea.1080p.NF.WEBRip.DD5.1.x264-SNEAkY' restored.
+(N) 2022-05-12T13:03:14 - 'Bojack.Horseman.S04E11.1080p.WEB.x264-STRiFE[rarbg]' restored.
+(N) 2022-05-12T13:03:14 - 'Bojack.Horseman.S04E12.1080p.WEB.x264-STRiFE[rarbg]' restored.
+(N) 2022-05-12T13:03:14 - 'Bojack.Horseman.S04E01.720p.WEB.x264-STRiFE[rarbg]' restored.
+(N) 2022-05-12T13:03:14 - 'Bojack.Horseman.S04E02.720p.WEB.x264-STRiFE[rarbg]' restored.
+(N) 2022-05-12T13:03:14 - 'Slow.Horses.S01E06.1080p.WEB.H264-GLHF[TGx]' restored.
+(N) 2022-05-12T13:03:14 - 'Halo.S01E03.1080p.WEB.H264-PECULATE[TGx]' restored.
+(C) 2022-05-12T13:03:14 - File sizes mismatch for torrent 'Halo.S01E03.1080p.WEB.H264-PECULATE[TGx]'. Cannot proceed further.
+(N) 2022-05-12T13:03:14 - 'Taskmaster.S07E09.720p.WEB.h264-DiRT[TGx]' restored.
+(N) 2022-05-12T13:03:14 - 'Taskmaster.S07E08.720p.WEB.h264-DiRT[TGx]' restored.
+(N) 2022-05-12T13:03:14 - 'Rick And Morty S04 Complete BluRay H264 5.1 BONE' restored.
+(N) 2022-05-12T13:03:14 - 'Rick.And.Morty.S01.Season.1.Complete.1080p.BluRay.x264-maximersk [mrsktv]' restored.
+(N) 2022-05-12T13:03:14 - 'Rick.and.Morty.S05E01.Mort.Dinner.Rick.Andre.1080p.AS.WEBRip.AAC2.0.H264-BTN[TGx]' restored.
+(N) 2022-05-12T13:03:14 - 'Rick.and.Morty.S05E04.1080p.WEBRip.x264-CAKES[rarbg]' restored.
+(N) 2022-05-12T13:03:14 - 'Rick.and.Morty.S02.720p.BRRip.MkvCge' restored.
+(N) 2022-05-12T13:03:14 - 'Rick.and.Morty.S05E07.Gotron.Jerrysis.Rickvangelion.1080p.WEBRip.DDP5.1.x264-NOGRP[rartv]' restored.
+(N) 2022-05-12T13:03:14 - 'Taskmaster.S07E10.720p.WEB.h264-DiRT[TGx]' restored.
+(N) 2022-05-12T13:03:14 - 'Rick.and.Morty.S05E10.1080p.WEBRip.x264-CAKES[rarbg]' restored.
+(N) 2022-05-12T13:03:14 - 'Better.Call.Saul.S06E05.Black.and.Blue.1080p.NF.WEBRip.DDP5.1.x264-NTb' restored.
+(N) 2022-05-12T13:03:14 - 'Rick and Morty - Season 3 (2017) [1080p]' restored.
+(N) 2022-05-12T13:03:14 - 'Rick.and.Morty.S05E09.Forgetting.Sarick.Mortshall.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]' restored.
+(N) 2022-05-12T13:03:14 - 'Rick.and.Morty.S05E08.1080p.WEB.h264-KOGi[rarbg]' restored.
+(N) 2022-05-12T13:03:14 - 'BoJack.Horseman.S05.COMPLETE.720p.WEB.x264-STRiFE[TGx]' restored.
+(N) 2022-05-12T13:03:14 - 'Better.Call.Saul.S06E04.1080p.WEB.H264-CAKES' restored.
+(N) 2022-05-12T13:03:14 - 'Rick.and.Morty.S05E05.1080p.WEBRip.x264-CAKES[rarbg]' restored.
+(N) 2022-05-12T13:03:14 - 'Taskmaster.S07E07.720p.WEB.h264-DiRT[TGx]' restored.
+(N) 2022-05-12T13:03:14 - 'BoJack.Horseman.S02E01.Brand.New.Couch.1080p.NF.WEBRip.DD5.1.x264-SNEAkY' restored.
+(N) 2022-05-12T13:03:14 - 'Better Call Saul S06E02 Carrot and Stick 1080p WEBRip AAC5.1 x264-HODL.mkv' restored.
+(N) 2022-05-12T13:03:14 - 'Rick.and.Morty.S05E03.1080p.WEBRip.x264-CAKES[rarbg]' restored.
+(N) 2022-05-12T13:03:14 - 'Better.Call.Saul.S06E03.REPACK.720p.WEB.H264-CAKES[rarbg]' restored.
+(N) 2022-05-12T13:03:14 - 'Better Call Saul Season 2 720p- mRs' restored.
+(N) 2022-05-12T13:03:14 - 'Better Call Saul S06E01 Wine and Roses 1080p WEBRip AAC5.1 x264-HODL.mkv' restored.
+(N) 2022-05-12T13:03:14 - 'Rick.and.Morty.S05E06.REPACK.1080p.WEBRip.x264-BAE[TGx]' restored.
+(N) 2022-05-12T13:03:14 - 'Taskmaster.S07E06.720p.WEB.h264-DiRT[TGx]' restored.
+(N) 2022-05-12T13:03:14 - 'Rick.and.Morty.S05E02.1080p.WEBRip.x264-BAE[rarbg]' restored.
+(I) 2022-05-12T13:03:15 - Detected external IP: 123.3.233.126
+(N) 2022-05-12T13:03:16 - WebAPI login success. IP: ::ffff:192.168.32.2
+(I) 2022-05-12T13:03:21 - UPnP / NAT-PMP support [OFF]

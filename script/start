@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 
-set -euo pipefail
+set -eo pipefail
 
 PWD="$( cd -- "$(dirname "$0")" >/dev/null 2>&1 ; pwd -P )"
 
-"${PWD}"/source-vars
+. "${PWD}"/source-vars
 
 # Check that all mounted volumes have correct permissions
 # sudo chmod 777 ~/Downloads/Torrents/qbittorrent

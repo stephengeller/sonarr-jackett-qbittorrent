@@ -2800,3 +2800,11 @@
 2022-05-12 12:43:50.1|Info|OwinHostController|Listening on the following URLs:
 2022-05-12 12:43:50.2|Info|OwinHostController|  http://*:8989/
 2022-05-12 12:43:50.4|Info|SonarrBootstrapper|Starting Web Server
+2022-05-12 13:03:14.5|Info|Bootstrap|Starting Sonarr - /app/sonarr/bin/Sonarr.exe - Version 3.0.8.1507
+2022-05-12 13:03:14.8|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2022-05-12 13:03:14.9|Info|Router|Application mode: Interactive
+2022-05-12 13:03:15.0|Info|MigrationLogger|*** Checking database for required migrations data source=/config/sonarr.db;cache size=-10000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2022-05-12 13:03:15.1|Info|MigrationLogger|*** Checking database for required migrations data source=/config/logs.db;cache size=-10000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2022-05-12 13:03:15.3|Info|OwinHostController|Listening on the following URLs:
+2022-05-12 13:03:15.3|Info|OwinHostController|  http://*:8989/
+2022-05-12 13:03:15.5|Info|SonarrBootstrapper|Starting Web Server
