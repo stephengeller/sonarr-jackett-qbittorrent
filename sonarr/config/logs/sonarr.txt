@@ -2808,3 +2808,67 @@
 2022-05-12 13:03:15.3|Info|OwinHostController|Listening on the following URLs:
 2022-05-12 13:03:15.3|Info|OwinHostController|  http://*:8989/
 2022-05-12 13:03:15.5|Info|SonarrBootstrapper|Starting Web Server
+2022-05-12 13:08:30.0|Info|Bootstrap|Starting Sonarr - /app/sonarr/bin/Sonarr.exe - Version 3.0.8.1507
+2022-05-12 13:08:30.5|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2022-05-12 13:08:30.6|Info|Router|Application mode: Interactive
+2022-05-12 13:08:30.7|Info|MigrationLogger|*** Checking database for required migrations data source=/config/sonarr.db;cache size=-10000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2022-05-12 13:08:30.8|Info|MigrationLogger|*** Checking database for required migrations data source=/config/logs.db;cache size=-10000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2022-05-12 13:08:30.9|Info|OwinHostController|Listening on the following URLs:
+2022-05-12 13:08:30.9|Info|OwinHostController|  http://*:8989/
+2022-05-12 13:08:31.2|Info|SonarrBootstrapper|Starting Web Server
+2022-05-12 13:09:01.8|Info|RssSyncService|Starting RSS Sync
+2022-05-12 13:09:01.9|Info|RefreshSeriesService|Updating The Afterparty
+2022-05-12 13:09:01.9|Info|SceneMappingService|Updating Scene mappings
+2022-05-12 13:09:02.8|Info|RefreshEpisodeService|Starting episode info refresh for: [384495][The Afterparty]
+2022-05-12 13:09:02.8|Info|RefreshEpisodeService|Finished episode refresh for series: [384495][The Afterparty].
+2022-05-12 13:09:03.1|Info|DiskScanService|Scanning The Afterparty
+2022-05-12 13:09:05.0|Info|DownloadDecisionMaker|Processing 67 releases
+2022-05-12 13:09:41.0|Info|DiskScanService|Completed scanning disk for The Afterparty
+2022-05-12 13:09:41.3|Info|RssSyncService|RSS Sync Completed. Reports found: 67, Reports grabbed: 0
+2022-05-12 13:09:41.3|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2022-05-12 13:09:41.4|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2022-05-12 13:09:41.8|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2022-05-12 13:09:41.8|Info|ExistingExtraFileService|Found 339 possible extra files, imported 337 files.
+2022-05-12 13:09:41.9|Info|RefreshSeriesService|Updating Atlanta
+2022-05-12 13:09:42.0|Info|RefreshEpisodeService|Starting episode info refresh for: [313999][Atlanta]
+2022-05-12 13:09:42.0|Info|RefreshEpisodeService|Finished episode refresh for series: [313999][Atlanta].
+2022-05-12 13:09:42.0|Info|DiskScanService|Scanning Atlanta
+2022-05-12 13:09:46.1|Info|DiskScanService|Completed scanning disk for Atlanta
+2022-05-12 13:09:46.2|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2022-05-12 13:09:46.3|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2022-05-12 13:09:46.4|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2022-05-12 13:09:46.4|Info|ExistingExtraFileService|Found 3 possible extra files, imported 0 files.
+2022-05-12 13:09:46.4|Info|RefreshSeriesService|Updating Better Call Saul
+2022-05-12 13:09:46.5|Info|RefreshEpisodeService|Starting episode info refresh for: [273181][Better Call Saul]
+2022-05-12 13:09:46.5|Info|RefreshEpisodeService|Finished episode refresh for series: [273181][Better Call Saul].
+2022-05-12 13:09:46.5|Info|DiskScanService|Scanning Better Call Saul
+2022-05-12 13:10:06.7|Info|DiskScanService|Completed scanning disk for Better Call Saul
+2022-05-12 13:10:07.0|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2022-05-12 13:10:07.1|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2022-05-12 13:10:07.2|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2022-05-12 13:10:07.2|Info|ExistingExtraFileService|Found 22 possible extra files, imported 10 files.
+2022-05-12 13:10:07.2|Info|RefreshSeriesService|Skipping refresh of series: BoJack Horseman
+2022-05-12 13:10:07.2|Info|DiskScanService|Scanning BoJack Horseman
+2022-05-12 13:10:08.3|Info|DiskScanService|Completed scanning disk for BoJack Horseman
+2022-05-12 13:10:08.3|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2022-05-12 13:10:08.3|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2022-05-12 13:10:08.3|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2022-05-12 13:10:08.3|Info|ExistingExtraFileService|Found 0 possible extra files, imported 0 files.
+2022-05-12 13:10:08.3|Info|RefreshSeriesService|Skipping refresh of series: Breaking Bad
+2022-05-12 13:10:08.3|Info|DiskScanService|Scanning Breaking Bad
+2022-05-12 13:10:21.4|Info|DiskScanService|Completed scanning disk for Breaking Bad
+2022-05-12 13:10:21.7|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2022-05-12 13:10:21.8|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2022-05-12 13:10:21.9|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2022-05-12 13:10:21.9|Info|ExistingExtraFileService|Found 74 possible extra files, imported 62 files.
+2022-05-12 13:10:21.9|Info|RefreshSeriesService|Skipping refresh of series: Dopesick
+2022-05-12 13:10:21.9|Info|DiskScanService|Scanning Dopesick
+2022-05-12 13:10:22.4|Info|DiskScanService|Completed scanning disk for Dopesick
+2022-05-12 13:10:22.5|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2022-05-12 13:10:22.5|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2022-05-12 13:10:22.5|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2022-05-12 13:10:22.5|Info|ExistingExtraFileService|Found 0 possible extra files, imported 0 files.
+2022-05-12 13:10:22.5|Info|RefreshSeriesService|Updating Halo
+2022-05-12 13:10:22.6|Info|RefreshEpisodeService|Starting episode info refresh for: [366524][Halo]
+2022-05-12 13:10:22.7|Info|RefreshEpisodeService|Finished episode refresh for series: [366524][Halo].
+2022-05-12 13:10:22.7|Info|DiskScanService|Scanning Halo

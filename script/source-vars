@@ -2,8 +2,6 @@
 
 set -e
 
-PWD="$( cd -- "$(dirname "$0")" >/dev/null 2>&1 ; pwd -P )"
-
 DEFAULT_NETWORK_VOLUME_PATH="/Volumes/SG WD 2TB S"
 DEFAULT_QBITTORRENT_DOWNLOAD_PATH="/Users/stephengeller/Downloads/Torrents/qbittorrent"
 
