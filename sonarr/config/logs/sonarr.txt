@@ -1593,3 +1593,1185 @@
 2022-05-10 07:14:13.5|Info|RssSyncService|Starting RSS Sync
 2022-05-10 07:14:15.6|Info|DownloadDecisionMaker|Processing 69 releases
 2022-05-10 07:14:15.8|Info|RssSyncService|RSS Sync Completed. Reports found: 69, Reports grabbed: 0
+2022-05-10 07:17:02.9|Warn|MediaCoverMapper|File /config/MediaCover/4/fanart.jpg not found
+2022-05-10 07:17:02.9|Warn|MediaCoverMapper|File /config/MediaCover/4/poster.jpg not found
+2022-05-10 07:17:27.5|Warn|MediaCoverMapper|File /config/MediaCover/13/poster.jpg not found
+2022-05-10 07:17:27.5|Warn|MediaCoverMapper|File /config/MediaCover/9/poster.jpg not found
+2022-05-10 07:17:27.5|Warn|MediaCoverMapper|File /config/MediaCover/4/poster.jpg not found
+2022-05-10 07:17:27.5|Warn|MediaCoverMapper|File /config/MediaCover/8/poster.jpg not found
+2022-05-10 07:17:27.5|Warn|MediaCoverMapper|File /config/MediaCover/7/poster.jpg not found
+2022-05-10 07:17:27.5|Warn|MediaCoverMapper|File /config/MediaCover/12/poster.jpg not found
+2022-05-10 07:17:27.6|Warn|MediaCoverMapper|File /config/MediaCover/14/poster.jpg not found
+2022-05-10 07:29:43.7|Info|RssSyncService|Starting RSS Sync
+2022-05-10 07:29:44.1|Info|DownloadDecisionMaker|Processing 69 releases
+2022-05-10 07:29:44.5|Info|RssSyncService|RSS Sync Completed. Reports found: 69, Reports grabbed: 0
+2022-05-10 07:31:42.1|Warn|MediaCoverMapper|File /config/MediaCover/14/poster.jpg not found
+2022-05-10 07:31:42.1|Warn|MediaCoverMapper|File /config/MediaCover/7/poster.jpg not found
+2022-05-10 07:31:42.1|Warn|MediaCoverMapper|File /config/MediaCover/8/poster.jpg not found
+2022-05-10 07:31:42.1|Warn|MediaCoverMapper|File /config/MediaCover/9/poster.jpg not found
+2022-05-10 07:31:42.1|Warn|MediaCoverMapper|File /config/MediaCover/12/poster.jpg not found
+2022-05-10 07:45:14.0|Info|RssSyncService|Starting RSS Sync
+2022-05-10 07:45:16.8|Info|DownloadDecisionMaker|Processing 69 releases
+2022-05-10 07:45:17.2|Info|RssSyncService|RSS Sync Completed. Reports found: 69, Reports grabbed: 0
+2022-05-10 08:00:40.4|Info|RssSyncService|Starting RSS Sync
+2022-05-10 08:00:43.5|Info|DownloadDecisionMaker|Processing 68 releases
+2022-05-10 08:00:43.6|Info|RssSyncService|RSS Sync Completed. Reports found: 68, Reports grabbed: 0
+2022-05-10 08:16:11.1|Info|RssSyncService|Starting RSS Sync
+2022-05-10 08:16:11.1|Info|DownloadDecisionMaker|Processing 68 releases
+2022-05-10 08:16:11.3|Info|RssSyncService|RSS Sync Completed. Reports found: 68, Reports grabbed: 0
+2022-05-10 08:39:24.6|Info|RssSyncService|Starting RSS Sync
+2022-05-10 08:39:26.9|Info|DownloadDecisionMaker|Processing 66 releases
+2022-05-10 08:39:27.1|Info|RssSyncService|RSS Sync Completed. Reports found: 66, Reports grabbed: 0
+2022-05-10 08:54:55.5|Info|RssSyncService|Starting RSS Sync
+2022-05-10 08:54:55.5|Info|DownloadDecisionMaker|Processing 66 releases
+2022-05-10 08:54:55.7|Info|RssSyncService|RSS Sync Completed. Reports found: 66, Reports grabbed: 0
+2022-05-10 09:09:56.1|Info|RssSyncService|Starting RSS Sync
+2022-05-10 09:09:56.1|Info|DownloadDecisionMaker|Processing 66 releases
+2022-05-10 09:09:56.3|Info|RssSyncService|RSS Sync Completed. Reports found: 66, Reports grabbed: 0
+2022-05-10 09:24:56.5|Info|RssSyncService|Starting RSS Sync
+2022-05-10 09:25:13.4|Info|DownloadDecisionMaker|Processing 64 releases
+2022-05-10 09:25:13.6|Info|RssSyncService|RSS Sync Completed. Reports found: 64, Reports grabbed: 0
+2022-05-10 09:46:56.8|Info|RssSyncService|Starting RSS Sync
+2022-05-10 09:46:56.8|Info|DownloadDecisionMaker|Processing 64 releases
+2022-05-10 09:46:57.1|Info|RssSyncService|RSS Sync Completed. Reports found: 64, Reports grabbed: 0
+2022-05-10 09:53:57.1|Info|SceneMappingService|Updating Scene mappings
+2022-05-10 10:01:57.3|Info|RssSyncService|Starting RSS Sync
+2022-05-10 10:01:59.7|Info|DownloadDecisionMaker|Processing 62 releases
+2022-05-10 10:01:59.9|Info|RssSyncService|RSS Sync Completed. Reports found: 62, Reports grabbed: 0
+2022-05-10 10:17:27.8|Info|RssSyncService|Starting RSS Sync
+2022-05-10 10:17:27.9|Info|DownloadDecisionMaker|Processing 62 releases
+2022-05-10 10:17:28.2|Info|RssSyncService|RSS Sync Completed. Reports found: 62, Reports grabbed: 0
+2022-05-10 10:32:28.4|Info|RssSyncService|Starting RSS Sync
+2022-05-10 10:32:28.4|Info|DownloadDecisionMaker|Processing 62 releases
+2022-05-10 10:32:28.6|Info|RssSyncService|RSS Sync Completed. Reports found: 62, Reports grabbed: 0
+2022-05-10 11:01:21.3|Info|RssSyncService|Starting RSS Sync
+2022-05-10 11:01:23.3|Warn|Torznab|Indexer Jackett 1337x rss sync didn't cover the period between 5/10/2022 8:25:00 AM and 5/10/2022 8:25:00 AM UTC. Search may be required.
+2022-05-10 11:01:23.4|Info|DownloadDecisionMaker|Processing 67 releases
+2022-05-10 11:01:23.7|Info|RssSyncService|RSS Sync Completed. Reports found: 67, Reports grabbed: 0
+2022-05-10 11:25:31.1|Info|RssSyncService|Starting RSS Sync
+2022-05-10 11:25:31.2|Info|DownloadDecisionMaker|Processing 67 releases
+2022-05-10 11:25:31.4|Info|RssSyncService|RSS Sync Completed. Reports found: 67, Reports grabbed: 0
+2022-05-10 11:49:38.9|Info|RssSyncService|Starting RSS Sync
+2022-05-10 11:49:41.2|Info|DownloadDecisionMaker|Processing 67 releases
+2022-05-10 11:49:41.4|Info|RssSyncService|RSS Sync Completed. Reports found: 67, Reports grabbed: 0
+2022-05-10 12:05:09.8|Info|RssSyncService|Starting RSS Sync
+2022-05-10 12:05:09.8|Info|DownloadDecisionMaker|Processing 67 releases
+2022-05-10 12:05:10.0|Info|RssSyncService|RSS Sync Completed. Reports found: 67, Reports grabbed: 0
+2022-05-10 12:20:10.7|Info|RssSyncService|Starting RSS Sync
+2022-05-10 12:20:10.8|Info|DownloadDecisionMaker|Processing 67 releases
+2022-05-10 12:20:11.0|Info|RssSyncService|RSS Sync Completed. Reports found: 67, Reports grabbed: 0
+2022-05-10 12:35:11.4|Info|RssSyncService|Starting RSS Sync
+2022-05-10 12:35:16.0|Info|DownloadDecisionMaker|Processing 69 releases
+2022-05-10 12:35:16.1|Info|RssSyncService|RSS Sync Completed. Reports found: 69, Reports grabbed: 0
+2022-05-10 12:58:57.5|Info|RssSyncService|Starting RSS Sync
+2022-05-10 12:58:57.5|Info|SceneMappingService|Updating Scene mappings
+2022-05-10 12:58:57.6|Info|DownloadDecisionMaker|Processing 69 releases
+2022-05-10 12:58:58.4|Info|RssSyncService|RSS Sync Completed. Reports found: 69, Reports grabbed: 0
+2022-05-10 13:02:23.3|Warn|MediaCoverMapper|File /config/MediaCover/13/poster.jpg not found
+2022-05-10 13:02:23.3|Warn|MediaCoverMapper|File /config/MediaCover/4/poster.jpg not found
+2022-05-10 13:02:23.3|Warn|MediaCoverMapper|File /config/MediaCover/9/poster.jpg not found
+2022-05-10 13:02:23.3|Warn|MediaCoverMapper|File /config/MediaCover/8/poster.jpg not found
+2022-05-10 13:02:23.3|Warn|MediaCoverMapper|File /config/MediaCover/7/poster.jpg not found
+2022-05-10 13:02:23.4|Warn|MediaCoverMapper|File /config/MediaCover/14/poster.jpg not found
+2022-05-10 13:02:23.4|Warn|MediaCoverMapper|File /config/MediaCover/12/poster.jpg not found
+2022-05-10 13:03:20.5|Warn|MediaCoverMapper|File /config/MediaCover/1/fanart.jpg not found
+2022-05-10 13:03:20.5|Warn|MediaCoverMapper|File /config/MediaCover/1/poster.jpg not found
+2022-05-10 13:03:45.2|Warn|MediaCoverMapper|File /config/MediaCover/13/poster.jpg not found
+2022-05-10 13:03:45.2|Warn|MediaCoverMapper|File /config/MediaCover/9/poster.jpg not found
+2022-05-10 13:03:45.2|Warn|MediaCoverMapper|File /config/MediaCover/4/poster.jpg not found
+2022-05-10 13:03:45.2|Warn|MediaCoverMapper|File /config/MediaCover/8/poster.jpg not found
+2022-05-10 13:03:45.2|Warn|MediaCoverMapper|File /config/MediaCover/7/poster.jpg not found
+2022-05-10 13:03:45.3|Warn|MediaCoverMapper|File /config/MediaCover/12/poster.jpg not found
+2022-05-10 13:03:45.3|Warn|MediaCoverMapper|File /config/MediaCover/14/poster.jpg not found
+2022-05-10 13:03:54.1|Info|ReleaseSearchService|Searching indexers for [Taskmaster : S07]. 2 active indexers
+2022-05-10 13:03:55.7|Info|DownloadDecisionMaker|Processing 14 releases
+2022-05-10 13:03:59.2|Info|DownloadService|Report sent to qBitTorrent. Taskmaster S07E06 720p WEB h264 DiRT TGx
+2022-05-10 13:04:00.1|Info|DownloadService|Report sent to qBitTorrent. Taskmaster S07E07 720p WEB h264 DiRT TGx
+2022-05-10 13:04:01.9|Info|DownloadService|Report sent to qBitTorrent. Taskmaster S07E08 720p WEB h264 DiRT TGx
+2022-05-10 13:04:04.0|Info|DownloadService|Report sent to qBitTorrent. Taskmaster S07E09 720p WEB h264 DiRT TGx
+2022-05-10 13:04:06.1|Info|DownloadService|Report sent to qBitTorrent. Taskmaster S07E10 720p WEB h264 DiRT TGx
+2022-05-10 13:04:06.1|Info|SeasonSearchService|Season search completed. 5 reports downloaded.
+2022-05-10 13:13:59.4|Info|RssSyncService|Starting RSS Sync
+2022-05-10 13:14:01.5|Info|DownloadDecisionMaker|Processing 67 releases
+2022-05-10 13:14:02.2|Info|RssSyncService|RSS Sync Completed. Reports found: 67, Reports grabbed: 0
+2022-05-10 13:29:30.1|Info|RssSyncService|Starting RSS Sync
+2022-05-10 13:29:30.1|Info|DownloadDecisionMaker|Processing 67 releases
+2022-05-10 13:29:30.3|Info|RssSyncService|RSS Sync Completed. Reports found: 67, Reports grabbed: 0
+2022-05-10 14:00:36.1|Info|RssSyncService|Starting RSS Sync
+2022-05-10 14:00:38.7|Info|DownloadDecisionMaker|Processing 67 releases
+2022-05-10 14:00:38.9|Info|RssSyncService|RSS Sync Completed. Reports found: 67, Reports grabbed: 0
+2022-05-10 14:22:03.1|Info|RssSyncService|Starting RSS Sync
+2022-05-10 14:22:03.1|Info|DownloadDecisionMaker|Processing 67 releases
+2022-05-10 14:22:03.3|Info|RssSyncService|RSS Sync Completed. Reports found: 67, Reports grabbed: 0
+2022-05-10 15:03:10.6|Info|RssSyncService|Starting RSS Sync
+2022-05-10 15:03:12.7|Info|DownloadDecisionMaker|Processing 68 releases
+2022-05-10 15:03:14.7|Info|DownloadService|Report sent to qBitTorrent. Better Call Saul S06E05 Black and Blue 1080p NF WEBRip DDP 5.1 x264 NTb
+2022-05-10 15:03:14.7|Info|RssSyncService|RSS Sync Completed. Reports found: 68, Reports grabbed: 1
+2022-05-10 16:10:09.3|Info|RssSyncService|Starting RSS Sync
+2022-05-10 16:10:09.3|Info|SceneMappingService|Updating Scene mappings
+2022-05-10 16:10:09.6|Info|RefreshSeriesService|Updating The Afterparty
+2022-05-10 16:10:10.3|Info|RefreshEpisodeService|Starting episode info refresh for: [384495][The Afterparty]
+2022-05-10 16:10:10.4|Info|RefreshEpisodeService|Finished episode refresh for series: [384495][The Afterparty].
+2022-05-10 16:10:10.5|Info|MediaCoverService|Downloading Banner for [384495][The Afterparty] https://artworks.thetvdb.com/banners/v4/series/384495/banners/616db84e045b0.jpg
+2022-05-10 16:10:10.7|Info|MediaCoverService|Downloading Poster for [384495][The Afterparty] https://artworks.thetvdb.com/banners/v4/series/384495/posters/61b960ed0fdb3.jpg
+2022-05-10 16:10:10.8|Info|MediaCoverService|Downloading Fanart for [384495][The Afterparty] https://artworks.thetvdb.com/banners/v4/series/384495/backgrounds/61fc16531223a.jpg
+2022-05-10 16:10:11.4|Info|DownloadDecisionMaker|Processing 66 releases
+2022-05-10 16:10:21.1|Info|DiskScanService|Scanning The Afterparty
+2022-05-10 16:10:21.7|Info|RssSyncService|RSS Sync Completed. Reports found: 66, Reports grabbed: 0
+2022-05-10 16:10:23.8|Error|CommandExecutor|Error occurred while executing task ApplicationUpdateCheck
+
+[v3.0.8.1507] System.Net.WebException: Error getting response stream (ReadDoneAsync2): ReceiveFailure: 'https://services.sonarr.tv/v1/update/main?version=3.0.8.1507&os=linux&runtimeVer=6.12.0.122&active=true' ---> System.Net.WebException: Error getting response stream (ReadDoneAsync2): ReceiveFailure
+  at System.Net.WebResponseStream.InitReadAsync (System.Threading.CancellationToken cancellationToken) [0x000f3] in <9c6e2cb7ddd8473fa420642ddcf7ce48>:0 
+  at System.Net.WebOperation.Run () [0x001d9] in <9c6e2cb7ddd8473fa420642ddcf7ce48>:0 
+  at System.Net.WebCompletionSource`1[T].WaitForCompletion () [0x00094] in <9c6e2cb7ddd8473fa420642ddcf7ce48>:0 
+  at System.Net.HttpWebRequest.RunWithTimeoutWorker[T] (System.Threading.Tasks.Task`1[TResult] workerTask, System.Int32 timeout, System.Action abort, System.Func`1[TResult] aborted, System.Threading.CancellationTokenSource cts) [0x000f8] in <9c6e2cb7ddd8473fa420642ddcf7ce48>:0 
+  at System.Net.HttpWebRequest.GetResponse () [0x00016] in <9c6e2cb7ddd8473fa420642ddcf7ce48>:0 
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x00123] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:81 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x001c0] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:107 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x00086] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Common\Http\HttpClient.cs:126 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Common\Http\HttpClient.cs:59 
+  at NzbDrone.Common.Http.HttpClient.Get (NzbDrone.Common.Http.HttpRequest request) [0x00007] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Common\Http\HttpClient.cs:281 
+  at NzbDrone.Common.Http.HttpClient.Get[T] (NzbDrone.Common.Http.HttpRequest request) [0x00000] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Common\Http\HttpClient.cs:286 
+  at NzbDrone.Core.Update.UpdatePackageProvider.GetLatestUpdate (System.String branch, System.Version currentVersion) [0x00099] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Core\Update\UpdatePackageProvider.cs:46 
+  at NzbDrone.Core.Update.CheckUpdateService.AvailableUpdate () [0x00000] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Core\Update\UpdateCheckService.cs:26 
+  at NzbDrone.Core.Update.InstallUpdateService.GetUpdatePackage (NzbDrone.Core.Messaging.Commands.CommandTrigger updateTrigger) [0x00015] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Core\Update\InstallUpdateService.cs:223 
+  at NzbDrone.Core.Update.InstallUpdateService.Execute (NzbDrone.Core.Update.Commands.ApplicationUpdateCheckCommand message) [0x00000] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Core\Update\InstallUpdateService.cs:255 
+  at NzbDrone.Core.Messaging.Commands.CommandExecutor.ExecuteCommand[TCommand] (TCommand command, NzbDrone.Core.Messaging.Commands.CommandModel commandModel) [0x000e0] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Core\Messaging\Commands\CommandExecutor.cs:96 
+  at (wrapper dynamic-method) System.Object.CallSite.Target(System.Runtime.CompilerServices.Closure,System.Runtime.CompilerServices.CallSite,NzbDrone.Core.Messaging.Commands.CommandExecutor,object,NzbDrone.Core.Messaging.Commands.CommandModel)
+  at System.Dynamic.UpdateDelegates.UpdateAndExecuteVoid3[T0,T1,T2] (System.Runtime.CompilerServices.CallSite site, T0 arg0, T1 arg1, T2 arg2) [0x00035] in <5b415632df1f4365ae2242b1a257bb5b>:0 
+  at (wrapper dynamic-method) System.Object.CallSite.Target(System.Runtime.CompilerServices.Closure,System.Runtime.CompilerServices.CallSite,NzbDrone.Core.Messaging.Commands.CommandExecutor,object,NzbDrone.Core.Messaging.Commands.CommandModel)
+  at NzbDrone.Core.Messaging.Commands.CommandExecutor.ExecuteCommands () [0x00027] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Core\Messaging\Commands\CommandExecutor.cs:41 
+
+2022-05-10 16:10:25.1|Info|DiskScanService|Completed scanning disk for The Afterparty
+2022-05-10 16:10:25.1|Info|MetadataService|Series folder does not exist, skipping metadata creation
+2022-05-10 16:10:25.1|Info|RefreshSeriesService|Updating Atlanta
+2022-05-10 16:10:25.2|Info|RefreshEpisodeService|Starting episode info refresh for: [313999][Atlanta]
+2022-05-10 16:10:25.2|Info|RefreshEpisodeService|Finished episode refresh for series: [313999][Atlanta].
+2022-05-10 16:10:25.2|Info|DiskScanService|Scanning Atlanta
+2022-05-10 16:10:25.2|Info|MediaCoverService|Downloading Banner for [313999][Atlanta] https://artworks.thetvdb.com/banners/graphical/313999-g.jpg
+2022-05-10 16:10:25.3|Info|MediaCoverService|Downloading Poster for [313999][Atlanta] https://artworks.thetvdb.com/banners/posters/313999-2.jpg
+2022-05-10 16:10:25.4|Info|MediaCoverService|Downloading Fanart for [313999][Atlanta] https://artworks.thetvdb.com/banners/fanart/original/313999-7.jpg
+2022-05-10 17:05:03.8|Info|MetadataService|Series folder does not exist, skipping metadata image creation
+2022-05-10 17:05:04.2|Info|DiskScanService|Completed scanning disk for Atlanta
+2022-05-10 17:05:06.4|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2022-05-10 17:05:06.4|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2022-05-10 17:05:06.6|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2022-05-10 17:05:06.6|Info|ExistingExtraFileService|Found 3 possible extra files, imported 0 files.
+2022-05-10 17:05:06.6|Info|RefreshSeriesService|Updating Better Call Saul
+2022-05-10 17:05:06.8|Info|RefreshEpisodeService|Starting episode info refresh for: [273181][Better Call Saul]
+2022-05-10 17:05:06.9|Info|RefreshEpisodeService|Finished episode refresh for series: [273181][Better Call Saul].
+2022-05-10 17:05:06.9|Info|DiskScanService|Scanning Better Call Saul
+2022-05-10 17:05:06.9|Info|MediaCoverService|Downloading Banner for [273181][Better Call Saul] https://artworks.thetvdb.com/banners/graphical/273181-g2.jpg
+2022-05-10 17:05:07.0|Info|MediaCoverService|Downloading Poster for [273181][Better Call Saul] https://artworks.thetvdb.com/banners/posters/273181-1.jpg
+2022-05-10 17:05:07.1|Info|MediaCoverService|Downloading Fanart for [273181][Better Call Saul] https://artworks.thetvdb.com/banners/series/273181/backgrounds/62085899.jpg
+2022-05-10 17:05:16.0|Info|RssSyncService|Starting RSS Sync
+2022-05-10 17:05:26.0|Info|DownloadDecisionMaker|Processing 65 releases
+2022-05-10 17:05:28.8|Info|RssSyncService|RSS Sync Completed. Reports found: 65, Reports grabbed: 0
+2022-05-10 18:13:13.9|Info|DiskScanService|Completed scanning disk for Better Call Saul
+2022-05-10 18:13:18.0|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2022-05-10 18:13:18.0|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2022-05-10 18:13:18.2|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2022-05-10 18:13:18.2|Info|ExistingExtraFileService|Found 22 possible extra files, imported 10 files.
+2022-05-10 18:13:18.3|Info|RefreshSeriesService|Skipping refresh of series: Breaking Bad
+2022-05-10 18:13:18.3|Info|DiskScanService|Scanning Breaking Bad
+2022-05-10 18:13:30.8|Info|RssSyncService|Starting RSS Sync
+2022-05-10 18:13:34.7|Info|DownloadDecisionMaker|Processing 65 releases
+2022-05-10 18:13:35.3|Info|DiskScanService|Completed scanning disk for Breaking Bad
+2022-05-10 18:13:35.9|Info|RssSyncService|RSS Sync Completed. Reports found: 65, Reports grabbed: 0
+2022-05-10 18:47:11.4|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2022-05-10 18:47:11.8|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2022-05-10 18:47:11.9|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2022-05-10 18:47:11.9|Info|ExistingExtraFileService|Found 74 possible extra files, imported 62 files.
+2022-05-10 18:47:12.0|Info|RefreshSeriesService|Skipping refresh of series: Dopesick
+2022-05-10 18:47:13.3|Info|DiskScanService|Scanning Dopesick
+2022-05-10 18:47:13.9|Info|DiskScanService|Completed scanning disk for Dopesick
+2022-05-10 18:47:13.9|Info|MetadataService|Series folder does not exist, skipping metadata creation
+2022-05-10 18:47:13.9|Info|RefreshSeriesService|Updating Halo
+2022-05-10 18:47:14.6|Info|RefreshEpisodeService|Starting episode info refresh for: [366524][Halo]
+2022-05-10 18:47:14.6|Info|RefreshEpisodeService|Finished episode refresh for series: [366524][Halo].
+2022-05-10 18:47:14.6|Info|MediaCoverService|Downloading Banner for [366524][Halo] https://artworks.thetvdb.com/banners/v4/series/366524/banners/621bce22c66c8.jpg
+2022-05-10 18:47:14.6|Info|DiskScanService|Scanning Halo
+2022-05-10 18:47:14.8|Info|MediaCoverService|Downloading Poster for [366524][Halo] https://artworks.thetvdb.com/banners/v4/series/366524/posters/621558d61fc2d.jpg
+2022-05-10 18:47:15.7|Info|MediaCoverService|Downloading Fanart for [366524][Halo] https://artworks.thetvdb.com/banners/v4/series/366524/backgrounds/6269f85631ee7.jpg
+2022-05-10 18:47:17.3|Info|DiskScanService|Completed scanning disk for Halo
+2022-05-10 18:47:17.6|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2022-05-10 18:47:17.7|Info|ExistingSubtitleImporter|Found 1 existing subtitle files
+2022-05-10 18:47:17.8|Info|ExistingOtherExtraImporter|Found 1 existing other extra files
+2022-05-10 18:47:17.8|Info|ExistingExtraFileService|Found 5 possible extra files, imported 4 files.
+2022-05-10 18:47:17.8|Info|RefreshSeriesService|Skipping refresh of series: Lost
+2022-05-10 18:47:18.4|Info|DiskScanService|Scanning Lost
+2022-05-10 18:47:20.1|Info|RssSyncService|Starting RSS Sync
+2022-05-10 18:47:20.3|Info|DownloadDecisionMaker|Processing 65 releases
+2022-05-10 18:47:20.9|Info|RssSyncService|RSS Sync Completed. Reports found: 65, Reports grabbed: 0
+2022-05-10 18:53:12.1|Info|DiskScanService|Completed scanning disk for Lost
+2022-05-10 18:53:12.1|Info|MetadataService|Series folder does not exist, skipping metadata creation
+2022-05-10 18:53:12.1|Info|RefreshSeriesService|Updating Peacemaker
+2022-05-10 18:53:12.2|Info|RefreshEpisodeService|Starting episode info refresh for: [391153][Peacemaker]
+2022-05-10 18:53:12.2|Info|RefreshEpisodeService|Finished episode refresh for series: [391153][Peacemaker].
+2022-05-10 18:53:12.3|Info|MediaCoverService|Downloading Banner for [391153][Peacemaker] https://artworks.thetvdb.com/banners/v4/series/391153/banners/6161284158e54.jpg
+2022-05-10 18:53:12.4|Info|MediaCoverService|Downloading Poster for [391153][Peacemaker] https://artworks.thetvdb.com/banners/v4/series/391153/posters/6160eebd6fa10.jpg
+2022-05-10 18:53:12.5|Info|MediaCoverService|Downloading Fanart for [391153][Peacemaker] https://artworks.thetvdb.com/banners/v4/series/391153/backgrounds/61f7c30b91cf8.jpg
+2022-05-10 18:53:13.1|Info|DiskScanService|Scanning Peacemaker
+2022-05-10 18:53:13.7|Info|DiskScanService|Completed scanning disk for Peacemaker
+2022-05-10 18:53:13.7|Info|MetadataService|Series folder does not exist, skipping metadata creation
+2022-05-10 18:53:13.7|Info|RefreshSeriesService|Updating Rick and Morty
+2022-05-10 18:53:13.8|Info|RefreshEpisodeService|Starting episode info refresh for: [275274][Rick and Morty]
+2022-05-10 18:53:13.9|Info|RefreshEpisodeService|Finished episode refresh for series: [275274][Rick and Morty].
+2022-05-10 18:53:13.9|Info|DiskScanService|Scanning Rick and Morty
+2022-05-10 18:53:19.6|Info|DiskScanService|Completed scanning disk for Rick and Morty
+2022-05-10 18:53:20.2|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2022-05-10 18:53:20.2|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2022-05-10 18:53:20.3|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2022-05-10 18:53:20.3|Info|ExistingExtraFileService|Found 12 possible extra files, imported 11 files.
+2022-05-10 18:53:20.4|Info|RefreshSeriesService|Updating Severance
+2022-05-10 18:53:20.5|Info|RefreshEpisodeService|Starting episode info refresh for: [371980][Severance]
+2022-05-10 18:53:20.5|Info|RefreshEpisodeService|Finished episode refresh for series: [371980][Severance].
+2022-05-10 18:53:20.5|Info|MediaCoverService|Downloading Banner for [371980][Severance] https://artworks.thetvdb.com/banners/v4/series/371980/banners/61bb729db0947.jpg
+2022-05-10 18:53:20.6|Info|MediaCoverService|Downloading Poster for [371980][Severance] https://artworks.thetvdb.com/banners/v4/series/371980/posters/61bc6bbbea3f4.jpg
+2022-05-10 18:53:20.7|Info|MediaCoverService|Downloading Fanart for [371980][Severance] https://artworks.thetvdb.com/banners/v4/series/371980/backgrounds/620f529b23056.jpg
+2022-05-10 18:53:20.8|Info|MetadataService|Series folder does not exist, skipping metadata image creation
+2022-05-10 18:53:21.3|Info|DiskScanService|Scanning Severance
+2022-05-10 18:53:21.8|Info|DiskScanService|Completed scanning disk for Severance
+2022-05-10 18:53:21.8|Info|MetadataService|Series folder does not exist, skipping metadata creation
+2022-05-10 18:53:21.8|Info|RefreshSeriesService|Updating Slow Horses
+2022-05-10 18:53:21.9|Info|RefreshEpisodeService|Starting episode info refresh for: [372264][Slow Horses]
+2022-05-10 18:53:21.9|Info|RefreshEpisodeService|Finished episode refresh for series: [372264][Slow Horses].
+2022-05-10 18:53:21.9|Info|DiskScanService|Scanning Slow Horses
+2022-05-10 18:53:21.9|Info|MediaCoverService|Downloading Banner for [372264][Slow Horses] https://artworks.thetvdb.com/banners/v4/series/372264/banners/62472582b9253.jpg
+2022-05-10 18:53:22.7|Info|MediaCoverService|Downloading Poster for [372264][Slow Horses] https://artworks.thetvdb.com/banners/v4/series/372264/posters/624636bb58670.jpg
+2022-05-10 18:53:23.1|Info|MediaCoverService|Downloading Fanart for [372264][Slow Horses] https://artworks.thetvdb.com/banners/v4/series/372264/backgrounds/624efcd8f3509.jpg
+2022-05-10 18:53:24.9|Info|DiskScanService|Completed scanning disk for Slow Horses
+2022-05-10 18:53:25.4|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2022-05-10 18:53:25.4|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2022-05-10 18:53:25.4|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2022-05-10 18:53:25.4|Info|ExistingExtraFileService|Found 10 possible extra files, imported 10 files.
+2022-05-10 18:53:25.4|Info|RefreshSeriesService|Skipping refresh of series: The Sopranos
+2022-05-10 18:53:26.4|Info|DiskScanService|Scanning The Sopranos
+2022-05-10 18:53:26.9|Info|MetadataService|Series folder does not exist, skipping metadata image creation
+2022-05-10 18:53:34.4|Info|DiskScanService|Completed scanning disk for The Sopranos
+2022-05-10 18:53:34.4|Info|MetadataService|Series folder does not exist, skipping metadata creation
+2022-05-10 18:53:34.4|Info|RefreshSeriesService|Updating Taskmaster
+2022-05-10 18:53:34.5|Info|RefreshEpisodeService|Starting episode info refresh for: [298905][Taskmaster]
+2022-05-10 18:53:34.6|Info|RefreshEpisodeService|Finished episode refresh for series: [298905][Taskmaster].
+2022-05-10 18:53:34.6|Info|DiskScanService|Scanning Taskmaster
+2022-05-10 19:43:06.4|Info|DiskScanService|Completed scanning disk for Taskmaster
+2022-05-10 19:43:06.4|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2022-05-10 19:43:06.4|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2022-05-10 19:43:06.4|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2022-05-10 19:43:06.4|Info|ExistingExtraFileService|Found 0 possible extra files, imported 0 files.
+2022-05-10 19:43:06.4|Info|RefreshSeriesService|Skipping refresh of series: The Wire
+2022-05-10 19:43:07.9|Info|DiskScanService|Scanning The Wire
+2022-05-10 19:43:13.7|Info|DiskScanService|Completed scanning disk for The Wire
+2022-05-10 19:43:13.8|Info|MetadataService|Series folder does not exist, skipping metadata creation
+2022-05-10 19:43:13.8|Info|RefreshSeriesService|Updating Yellowjackets
+2022-05-10 19:43:14.0|Info|RefreshEpisodeService|Starting episode info refresh for: [399731][Yellowjackets]
+2022-05-10 19:43:14.0|Info|RefreshEpisodeService|Finished episode refresh for series: [399731][Yellowjackets].
+2022-05-10 19:43:14.1|Info|MediaCoverService|Downloading Banner for [399731][Yellowjackets] https://artworks.thetvdb.com/banners/v4/series/399731/banners/6171cf0c36682.jpg
+2022-05-10 19:43:14.3|Info|MediaCoverService|Downloading Poster for [399731][Yellowjackets] https://artworks.thetvdb.com/banners/v4/series/399731/posters/61a14a3784935.jpg
+2022-05-10 19:43:14.4|Info|MediaCoverService|Downloading Fanart for [399731][Yellowjackets] https://artworks.thetvdb.com/banners/v4/series/399731/backgrounds/61a14a7d98fcc.jpg
+2022-05-10 19:43:15.5|Info|DiskScanService|Scanning Yellowjackets
+2022-05-10 19:43:16.2|Info|DiskScanService|Completed scanning disk for Yellowjackets
+2022-05-10 19:43:16.2|Info|MetadataService|Series folder does not exist, skipping metadata creation
+2022-05-10 19:43:19.4|Info|MetadataService|Series folder does not exist, skipping metadata image creation
+2022-05-10 19:43:28.2|Info|RssSyncService|Starting RSS Sync
+2022-05-10 19:43:28.2|Info|SceneMappingService|Updating Scene mappings
+2022-05-10 20:28:05.2|Info|DownloadDecisionMaker|Processing 67 releases
+2022-05-10 20:28:05.5|Info|RssSyncService|RSS Sync Completed. Reports found: 67, Reports grabbed: 0
+2022-05-10 20:56:32.9|Info|RssSyncService|Starting RSS Sync
+2022-05-10 20:56:34.8|Info|DownloadDecisionMaker|Processing 67 releases
+2022-05-10 20:56:35.0|Info|RssSyncService|RSS Sync Completed. Reports found: 67, Reports grabbed: 0
+2022-05-10 22:00:29.3|Info|RssSyncService|Starting RSS Sync
+2022-05-10 22:09:38.1|Warn|Torznab|Indexer Jackett 1337x rss sync didn't cover the period between 5/10/2022 7:22:00 PM and 5/10/2022 7:42:00 PM UTC. Search may be required.
+2022-05-10 22:09:38.3|Info|DownloadDecisionMaker|Processing 65 releases
+2022-05-10 22:09:38.6|Info|RssSyncService|RSS Sync Completed. Reports found: 65, Reports grabbed: 0
+2022-05-10 22:24:56.8|Info|RssSyncService|Starting RSS Sync
+2022-05-10 22:24:56.9|Info|DownloadDecisionMaker|Processing 65 releases
+2022-05-10 22:24:57.2|Info|RssSyncService|RSS Sync Completed. Reports found: 65, Reports grabbed: 0
+2022-05-10 22:39:59.5|Info|RssSyncService|Starting RSS Sync
+2022-05-10 22:39:59.6|Info|DownloadDecisionMaker|Processing 65 releases
+2022-05-10 22:39:59.8|Info|RssSyncService|RSS Sync Completed. Reports found: 65, Reports grabbed: 0
+2022-05-10 22:40:52.4|Warn|MediaCoverMapper|File /config/MediaCover/4/poster.jpg not found
+2022-05-10 22:40:52.4|Warn|MediaCoverMapper|File /config/MediaCover/3/poster.jpg not found
+2022-05-10 22:40:52.4|Warn|MediaCoverMapper|File /config/MediaCover/6/poster.jpg not found
+2022-05-10 22:40:52.5|Warn|MediaCoverMapper|File /config/MediaCover/12/poster.jpg not found
+2022-05-10 22:41:11.2|Warn|MediaCoverMapper|File /config/MediaCover/4/poster.jpg not found
+2022-05-10 22:41:11.2|Warn|MediaCoverMapper|File /config/MediaCover/3/poster.jpg not found
+2022-05-10 22:41:11.2|Warn|MediaCoverMapper|File /config/MediaCover/6/poster.jpg not found
+2022-05-10 22:41:11.2|Warn|MediaCoverMapper|File /config/MediaCover/12/poster.jpg not found
+2022-05-10 22:41:19.2|Warn|MediaCoverMapper|File /config/MediaCover/4/poster.jpg not found
+2022-05-10 22:41:19.2|Warn|MediaCoverMapper|File /config/MediaCover/3/poster.jpg not found
+2022-05-10 22:41:19.2|Warn|MediaCoverMapper|File /config/MediaCover/6/poster.jpg not found
+2022-05-10 22:41:19.2|Warn|MediaCoverMapper|File /config/MediaCover/12/poster.jpg not found
+2022-05-10 22:41:48.4|Info|SceneMappingService|Updating Scene mappings
+2022-05-10 22:41:50.0|Info|SceneMappingService|Updating Scene mappings
+2022-05-10 22:41:50.6|Warn|MediaCoverMapper|File /config/MediaCover/4/fanart.jpg not found
+2022-05-10 22:41:50.6|Warn|MediaCoverMapper|File /config/MediaCover/4/poster.jpg not found
+2022-05-10 22:41:52.2|Info|RefreshSeriesService|Updating Breaking Bad
+2022-05-10 22:41:53.0|Info|RefreshEpisodeService|Starting episode info refresh for: [81189][Breaking Bad]
+2022-05-10 22:41:53.1|Info|RefreshEpisodeService|Finished episode refresh for series: [81189][Breaking Bad].
+2022-05-10 22:41:53.1|Info|DiskScanService|Scanning Breaking Bad
+2022-05-10 22:41:53.1|Info|MediaCoverService|Downloading Banner for [81189][Breaking Bad] https://artworks.thetvdb.com/banners/graphical/81189-g24.jpg
+2022-05-10 22:41:54.9|Info|MediaCoverService|Downloading Poster for [81189][Breaking Bad] https://artworks.thetvdb.com/banners/posters/81189-10.jpg
+2022-05-10 22:41:59.5|Info|MediaCoverService|Downloading Fanart for [81189][Breaking Bad] https://artworks.thetvdb.com/banners/fanart/original/81189-35.jpg
+2022-05-10 22:42:00.0|Info|DiskScanService|Completed scanning disk for Breaking Bad
+2022-05-10 22:42:00.4|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2022-05-10 22:42:00.5|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2022-05-10 22:42:00.7|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2022-05-10 22:42:00.7|Info|ExistingExtraFileService|Found 74 possible extra files, imported 62 files.
+2022-05-10 22:42:01.0|Info|RefreshSeriesService|Updating Dopesick
+2022-05-10 22:42:01.4|Info|RefreshEpisodeService|Starting episode info refresh for: [390716][Dopesick]
+2022-05-10 22:42:01.4|Info|RefreshEpisodeService|Finished episode refresh for series: [390716][Dopesick].
+2022-05-10 22:42:01.4|Info|MediaCoverService|Downloading Banner for [390716][Dopesick] https://artworks.thetvdb.com/banners/v4/series/390716/banners/614f73ce454c1.jpg
+2022-05-10 22:42:01.5|Info|MediaCoverService|Downloading Poster for [390716][Dopesick] https://artworks.thetvdb.com/banners/v4/series/390716/posters/6142fb8b8b175.jpg
+2022-05-10 22:42:01.7|Info|MediaCoverService|Downloading Fanart for [390716][Dopesick] https://artworks.thetvdb.com/banners/v4/series/390716/backgrounds/61478c4a97db5.jpg
+2022-05-10 22:42:01.9|Info|DiskScanService|Scanning Dopesick
+2022-05-10 22:42:02.0|Info|DiskScanService|Completed scanning disk for Dopesick
+2022-05-10 22:42:02.0|Info|MetadataService|Series folder does not exist, skipping metadata creation
+2022-05-10 22:42:05.8|Info|MetadataService|Series folder does not exist, skipping metadata image creation
+2022-05-10 22:42:33.3|Warn|MediaCoverMapper|File /config/MediaCover/6/poster.jpg not found
+2022-05-10 22:42:33.3|Warn|MediaCoverMapper|File /config/MediaCover/12/poster.jpg not found
+2022-05-10 22:42:35.0|Warn|MediaCoverMapper|File /config/MediaCover/12/poster.jpg not found
+2022-05-10 22:42:35.0|Warn|MediaCoverMapper|File /config/MediaCover/6/poster.jpg not found
+2022-05-10 22:42:40.9|Warn|MediaCoverMapper|File /config/MediaCover/12/poster.jpg not found
+2022-05-10 22:42:40.9|Warn|MediaCoverMapper|File /config/MediaCover/6/poster.jpg not found
+2022-05-10 22:42:47.1|Warn|MediaCoverMapper|File /config/MediaCover/6/poster.jpg not found
+2022-05-10 22:42:47.1|Warn|MediaCoverMapper|File /config/MediaCover/12/poster.jpg not found
+2022-05-10 22:42:47.2|Warn|MediaCoverMapper|File /config/MediaCover/6/poster.jpg not found
+2022-05-10 22:42:47.2|Warn|MediaCoverMapper|File /config/MediaCover/12/poster.jpg not found
+2022-05-10 22:42:48.1|Warn|MediaCoverMapper|File /config/MediaCover/6/fanart.jpg not found
+2022-05-10 22:42:48.1|Warn|MediaCoverMapper|File /config/MediaCover/6/poster.jpg not found
+2022-05-10 22:42:51.9|Warn|MediaCoverMapper|File /config/MediaCover/12/poster.jpg not found
+2022-05-10 22:42:52.0|Warn|MediaCoverMapper|File /config/MediaCover/12/poster.jpg not found
+2022-05-10 22:42:58.6|Warn|MediaCoverMapper|File /config/MediaCover/12/poster.jpg not found
+2022-05-10 22:42:58.7|Warn|MediaCoverMapper|File /config/MediaCover/12/poster.jpg not found
+2022-05-10 22:43:02.5|Warn|MediaCoverMapper|File /config/MediaCover/12/poster.jpg not found
+2022-05-10 22:43:02.6|Warn|MediaCoverMapper|File /config/MediaCover/12/poster.jpg not found
+2022-05-10 22:43:05.2|Warn|MediaCoverMapper|File /config/MediaCover/12/fanart.jpg not found
+2022-05-10 22:43:05.2|Warn|MediaCoverMapper|File /config/MediaCover/12/poster.jpg not found
+2022-05-10 22:43:35.5|Info|AddSeriesService|Adding Series [390716][Dopesick] Path: [/Plex/TV/Dopesick]
+2022-05-10 22:43:35.6|Info|AddSeriesService|Adding Series [73739][Lost] Path: [/Plex/TV/Lost]
+2022-05-10 22:43:35.7|Info|AddSeriesService|Adding Series [391153][Peacemaker] Path: [/Plex/TV/Peacemaker]
+2022-05-10 22:43:36.1|Info|AddSeriesService|Adding Series [371980][Severance] Path: [/Plex/TV/Severance]
+2022-05-10 22:43:36.2|Info|AddSeriesService|Adding Series [384495][The Afterparty] Path: [/Plex/TV/The Afterparty]
+2022-05-10 22:43:36.2|Info|AddSeriesService|Adding Series [75299][The Sopranos] Path: [/Plex/TV/The Sopranos]
+2022-05-10 22:43:36.3|Info|AddSeriesService|Adding Series [79126][The Wire] Path: [/Plex/TV/The Wire]
+2022-05-10 22:43:36.4|Info|AddSeriesService|Adding Series [399731][Yellowjackets] Path: [/Plex/TV/Yellowjackets]
+2022-05-10 22:43:36.6|Info|RefreshSeriesService|Updating Dopesick
+2022-05-10 22:43:36.6|Info|RefreshSeriesService|Updating Peacemaker
+2022-05-10 22:43:36.7|Info|RefreshSeriesService|Updating Lost
+2022-05-10 22:43:36.8|Info|RefreshEpisodeService|Starting episode info refresh for: [391153][Peacemaker]
+2022-05-10 22:43:37.7|Info|RefreshEpisodeService|Finished episode refresh for series: [391153][Peacemaker].
+2022-05-10 22:43:37.8|Info|MediaCoverService|Downloading Banner for [391153][Peacemaker] https://artworks.thetvdb.com/banners/v4/series/391153/banners/6161284158e54.jpg
+2022-05-10 22:43:37.8|Warn|MediaCoverMapper|File /config/MediaCover/18/poster.jpg not found
+2022-05-10 22:43:37.8|Info|RefreshEpisodeService|Starting episode info refresh for: [73739][Lost]
+2022-05-10 22:43:37.8|Info|DiskScanService|Scanning Peacemaker
+2022-05-10 22:43:37.8|Info|RefreshEpisodeService|Starting episode info refresh for: [390716][Dopesick]
+2022-05-10 22:43:37.9|Warn|MediaCoverMapper|File /config/MediaCover/18/poster.jpg not found
+2022-05-10 22:43:37.9|Info|RefreshEpisodeService|Finished episode refresh for series: [390716][Dopesick].
+2022-05-10 22:43:37.9|Info|MediaCoverService|Downloading Poster for [391153][Peacemaker] https://artworks.thetvdb.com/banners/v4/series/391153/posters/6160eebd6fa10.jpg
+2022-05-10 22:43:38.7|Info|MediaCoverService|Downloading Banner for [390716][Dopesick] https://artworks.thetvdb.com/banners/v4/series/390716/banners/614f73ce454c1.jpg
+2022-05-10 22:43:38.7|Warn|MediaCoverMapper|File /config/MediaCover/18/poster.jpg not found
+2022-05-10 22:43:38.7|Warn|MediaCoverMapper|File /config/MediaCover/18/poster.jpg not found
+2022-05-10 22:43:38.7|Warn|MediaCoverMapper|File /config/MediaCover/16/poster.jpg not found
+2022-05-10 22:43:38.8|Warn|MediaCoverMapper|File /config/MediaCover/16/poster.jpg not found
+2022-05-10 22:43:38.8|Info|DiskScanService|Scanning Dopesick
+2022-05-10 22:43:39.4|Info|MediaCoverService|Downloading Poster for [390716][Dopesick] https://artworks.thetvdb.com/banners/v4/series/390716/posters/6142fb8b8b175.jpg
+2022-05-10 22:43:39.4|Info|MediaCoverService|Downloading Fanart for [391153][Peacemaker] https://artworks.thetvdb.com/banners/v4/series/391153/backgrounds/61f7c30b91cf8.jpg
+2022-05-10 22:43:39.7|Info|RefreshEpisodeService|Finished episode refresh for series: [73739][Lost].
+2022-05-10 22:43:39.8|Info|MediaCoverService|Downloading Banner for [73739][Lost] https://artworks.thetvdb.com/banners/blank/73739.jpg
+2022-05-10 22:43:39.9|Info|MediaCoverService|Downloading Fanart for [390716][Dopesick] https://artworks.thetvdb.com/banners/v4/series/390716/backgrounds/61478c4a97db5.jpg
+2022-05-10 22:43:39.9|Warn|MediaCoverMapper|File /config/MediaCover/17/poster.jpg not found
+2022-05-10 22:43:39.9|Warn|MediaCoverMapper|File /config/MediaCover/17/poster.jpg not found
+2022-05-10 22:43:40.0|Info|MediaCoverService|Downloading Poster for [73739][Lost] https://artworks.thetvdb.com/banners/posters/73739-11.jpg
+2022-05-10 22:43:40.0|Info|DiskScanService|Scanning Lost
+2022-05-10 22:43:40.1|Info|MediaCoverService|Downloading Fanart for [73739][Lost] https://artworks.thetvdb.com/banners/fanart/original/73739-12.jpg
+2022-05-10 22:44:02.8|Info|DiskScanService|Completed scanning disk for Dopesick
+2022-05-10 22:44:02.8|Info|SeriesScannedHandler|[Dopesick] was recently added, performing post-add actions
+2022-05-10 22:44:03.6|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2022-05-10 22:44:03.6|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2022-05-10 22:44:03.6|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2022-05-10 22:44:03.6|Info|ExistingExtraFileService|Found 0 possible extra files, imported 0 files.
+2022-05-10 22:44:06.5|Info|RefreshSeriesService|Updating Severance
+2022-05-10 22:44:07.6|Info|RefreshEpisodeService|Starting episode info refresh for: [371980][Severance]
+2022-05-10 22:44:07.6|Info|DiskScanService|Completed scanning disk for Peacemaker
+2022-05-10 22:44:07.6|Info|SeriesScannedHandler|[Peacemaker] was recently added, performing post-add actions
+2022-05-10 22:44:07.7|Info|RefreshEpisodeService|Finished episode refresh for series: [371980][Severance].
+2022-05-10 22:44:07.7|Info|MediaCoverService|Downloading Banner for [371980][Severance] https://artworks.thetvdb.com/banners/v4/series/371980/banners/61bb729db0947.jpg
+2022-05-10 22:44:07.7|Warn|MediaCoverMapper|File /config/MediaCover/19/poster.jpg not found
+2022-05-10 22:44:07.8|Warn|MediaCoverMapper|File /config/MediaCover/19/poster.jpg not found
+2022-05-10 22:44:07.8|Info|DiskScanService|Scanning Severance
+2022-05-10 22:44:07.8|Info|MediaCoverService|Downloading Poster for [371980][Severance] https://artworks.thetvdb.com/banners/v4/series/371980/posters/61bc6bbbea3f4.jpg
+2022-05-10 22:44:10.2|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2022-05-10 22:44:10.2|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2022-05-10 22:44:10.2|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2022-05-10 22:44:10.2|Info|ExistingExtraFileService|Found 0 possible extra files, imported 0 files.
+2022-05-10 22:44:10.3|Info|RefreshSeriesService|Updating The Afterparty
+2022-05-10 22:44:10.3|Info|MediaCoverService|Downloading Fanart for [371980][Severance] https://artworks.thetvdb.com/banners/v4/series/371980/backgrounds/620f529b23056.jpg
+2022-05-10 22:44:11.0|Info|RefreshEpisodeService|Starting episode info refresh for: [384495][The Afterparty]
+2022-05-10 22:44:11.1|Info|RefreshEpisodeService|Finished episode refresh for series: [384495][The Afterparty].
+2022-05-10 22:44:11.1|Info|MediaCoverService|Downloading Banner for [384495][The Afterparty] https://artworks.thetvdb.com/banners/v4/series/384495/banners/616db84e045b0.jpg
+2022-05-10 22:44:11.1|Warn|MediaCoverMapper|File /config/MediaCover/20/poster.jpg not found
+2022-05-10 22:44:11.2|Info|MediaCoverService|Downloading Poster for [384495][The Afterparty] https://artworks.thetvdb.com/banners/v4/series/384495/posters/61b960ed0fdb3.jpg
+2022-05-10 22:44:11.3|Warn|MediaCoverMapper|File /config/MediaCover/20/poster.jpg not found
+2022-05-10 22:44:12.5|Info|DiskScanService|Scanning The Afterparty
+2022-05-10 22:44:14.2|Info|MediaCoverService|Downloading Fanart for [384495][The Afterparty] https://artworks.thetvdb.com/banners/v4/series/384495/backgrounds/61fc16531223a.jpg
+2022-05-10 22:44:47.3|Warn|MediaCoverMapper|File /config/MediaCover/21/poster.jpg not found
+2022-05-10 22:44:47.3|Warn|MediaCoverMapper|File /config/MediaCover/22/poster.jpg not found
+2022-05-10 22:44:47.3|Warn|MediaCoverMapper|File /config/MediaCover/23/poster.jpg not found
+2022-05-10 22:44:54.4|Warn|MediaCoverMapper|File /config/MediaCover/23/poster.jpg not found
+2022-05-10 22:44:54.4|Warn|MediaCoverMapper|File /config/MediaCover/21/poster.jpg not found
+2022-05-10 22:44:54.4|Warn|MediaCoverMapper|File /config/MediaCover/22/poster.jpg not found
+2022-05-10 22:44:55.1|Warn|MediaCoverMapper|File /config/MediaCover/22/fanart.jpg not found
+2022-05-10 22:44:55.2|Warn|MediaCoverMapper|File /config/MediaCover/22/poster.jpg not found
+2022-05-10 22:44:59.5|Info|DiskScanService|Completed scanning disk for Severance
+2022-05-10 22:44:59.5|Info|SeriesScannedHandler|[Severance] was recently added, performing post-add actions
+2022-05-10 22:45:00.1|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2022-05-10 22:45:00.5|Info|ExistingSubtitleImporter|Found 6 existing subtitle files
+2022-05-10 22:45:01.0|Info|ExistingOtherExtraImporter|Found 3 existing other extra files
+2022-05-10 22:45:01.0|Info|ExistingExtraFileService|Found 10 possible extra files, imported 9 files.
+2022-05-10 22:45:01.2|Info|RefreshSeriesService|Updating The Sopranos
+2022-05-10 22:45:01.3|Info|RefreshEpisodeService|Starting episode info refresh for: [75299][The Sopranos]
+2022-05-10 22:45:01.5|Info|RefreshEpisodeService|Finished episode refresh for series: [75299][The Sopranos].
+2022-05-10 22:45:01.5|Info|MediaCoverService|Downloading Banner for [75299][The Sopranos] https://artworks.thetvdb.com/banners/graphical/75299-g3.jpg
+2022-05-10 22:45:01.6|Info|DiskScanService|Scanning The Sopranos
+2022-05-10 22:45:01.6|Info|MediaCoverService|Downloading Poster for [75299][The Sopranos] https://artworks.thetvdb.com/banners/posters/75299-3.jpg
+2022-05-10 22:45:01.8|Info|MediaCoverService|Downloading Fanart for [75299][The Sopranos] https://artworks.thetvdb.com/banners/fanart/original/5b82d3acd0fd7.jpg
+2022-05-10 22:45:03.1|Warn|MediaCoverMapper|File /config/MediaCover/23/poster.jpg not found
+2022-05-10 22:45:03.1|Warn|MediaCoverMapper|File /config/MediaCover/22/poster.jpg not found
+2022-05-10 22:45:08.1|Info|DiskScanService|Completed scanning disk for The Afterparty
+2022-05-10 22:45:08.9|Info|SeriesScannedHandler|[The Afterparty] was recently added, performing post-add actions
+2022-05-10 22:45:10.1|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2022-05-10 22:45:23.6|Info|ExistingSubtitleImporter|Found 337 existing subtitle files
+2022-05-10 22:45:24.3|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2022-05-10 22:45:24.3|Info|ExistingExtraFileService|Found 339 possible extra files, imported 337 files.
+2022-05-10 22:45:24.4|Info|RefreshSeriesService|Updating The Wire
+2022-05-10 22:45:24.6|Info|RefreshEpisodeService|Starting episode info refresh for: [79126][The Wire]
+2022-05-10 22:45:24.7|Info|RefreshEpisodeService|Finished episode refresh for series: [79126][The Wire].
+2022-05-10 22:45:24.7|Info|MediaCoverService|Downloading Banner for [79126][The Wire] https://artworks.thetvdb.com/banners/graphical/79126-g16.jpg
+2022-05-10 22:45:24.8|Info|MediaCoverService|Downloading Poster for [79126][The Wire] https://artworks.thetvdb.com/banners/posters/79126-2.jpg
+2022-05-10 22:45:24.9|Info|DiskScanService|Scanning The Wire
+2022-05-10 22:45:25.0|Info|MediaCoverService|Downloading Fanart for [79126][The Wire] https://artworks.thetvdb.com/banners/fanart/original/79126-24.jpg
+2022-05-10 22:45:26.7|Info|ReleaseSearchService|Searching indexers for [Better Call Saul : S02]. 2 active indexers
+2022-05-10 22:45:29.5|Info|DownloadDecisionMaker|Processing 44 releases
+2022-05-10 22:46:02.0|Info|DownloadService|Report sent to qBitTorrent. Better Call Saul Season 2 S02 720p WEB-DL x264 MrLss
+2022-05-10 22:46:08.6|Info|DiskScanService|Completed scanning disk for Lost
+2022-05-10 22:46:08.6|Info|SeriesScannedHandler|[Lost] was recently added, performing post-add actions
+2022-05-10 22:46:09.3|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2022-05-10 22:46:09.4|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2022-05-10 22:46:10.1|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2022-05-10 22:46:10.1|Info|ExistingExtraFileService|Found 29 possible extra files, imported 0 files.
+2022-05-10 22:46:10.3|Info|RefreshSeriesService|Updating Yellowjackets
+2022-05-10 22:46:10.5|Info|RefreshEpisodeService|Starting episode info refresh for: [399731][Yellowjackets]
+2022-05-10 22:46:10.5|Info|RefreshEpisodeService|Finished episode refresh for series: [399731][Yellowjackets].
+2022-05-10 22:46:10.6|Info|MediaCoverService|Downloading Banner for [399731][Yellowjackets] https://artworks.thetvdb.com/banners/v4/series/399731/banners/6171cf0c36682.jpg
+2022-05-10 22:46:10.7|Info|DiskScanService|Scanning Yellowjackets
+2022-05-10 22:46:10.7|Info|MediaCoverService|Downloading Poster for [399731][Yellowjackets] https://artworks.thetvdb.com/banners/v4/series/399731/posters/61a14a3784935.jpg
+2022-05-10 22:46:10.9|Info|MediaCoverService|Downloading Fanart for [399731][Yellowjackets] https://artworks.thetvdb.com/banners/v4/series/399731/backgrounds/61a14a7d98fcc.jpg
+2022-05-10 22:46:23.4|Info|DiskScanService|Completed scanning disk for Yellowjackets
+2022-05-10 22:46:23.4|Info|SeriesScannedHandler|[Yellowjackets] was recently added, performing post-add actions
+2022-05-10 22:46:23.5|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2022-05-10 22:46:24.3|Info|ExistingSubtitleImporter|Found 17 existing subtitle files
+2022-05-10 22:46:24.5|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2022-05-10 22:46:24.5|Info|ExistingExtraFileService|Found 19 possible extra files, imported 17 files.
+2022-05-10 22:46:24.6|Info|ReleaseSearchService|Searching indexers for [Better Call Saul : S06]. 2 active indexers
+2022-05-10 22:46:27.6|Info|DownloadDecisionMaker|Processing 44 releases
+2022-05-10 22:46:29.6|Info|DownloadService|Report sent to qBitTorrent. Better Call Saul S06E01 1080p WEBRip AAC5 1 x264 HODL
+2022-05-10 22:46:41.6|Info|DownloadService|Report sent to qBitTorrent. Better Call Saul S06E02 1080p WEBRip AAC5 1 x264 HODL
+2022-05-10 22:46:49.4|Info|DownloadService|Report sent to qBitTorrent. Better Call Saul S06E04 1080p WEB H264 CAKES
+2022-05-10 22:46:49.5|Info|SeasonSearchService|Season search completed. 3 reports downloaded.
+2022-05-10 22:46:49.6|Info|QBittorrent|Unknown download state: checkingResumeData
+2022-05-10 22:47:05.0|Info|DiskScanService|Completed scanning disk for The Wire
+2022-05-10 22:47:05.0|Info|SeriesScannedHandler|[The Wire] was recently added, performing post-add actions
+2022-05-10 22:47:05.5|Info|ExistingMetadataImporter|Found 1 existing metadata files
+2022-05-10 22:47:05.6|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2022-05-10 22:47:06.0|Info|ExistingOtherExtraImporter|Found 1 existing other extra files
+2022-05-10 22:47:06.0|Info|ExistingExtraFileService|Found 16 possible extra files, imported 2 files.
+2022-05-10 22:47:42.7|Info|DiskScanService|Completed scanning disk for The Sopranos
+2022-05-10 22:47:42.7|Info|SeriesScannedHandler|[The Sopranos] was recently added, performing post-add actions
+2022-05-10 22:47:43.0|Info|ExistingMetadataImporter|Found 1 existing metadata files
+2022-05-10 22:47:43.0|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2022-05-10 22:47:43.3|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2022-05-10 22:47:43.4|Info|ExistingExtraFileService|Found 14 possible extra files, imported 1 files.
+2022-05-10 22:48:41.9|Info|ReleaseSearchService|Searching indexers for [Lost : S06E18]. 2 active indexers
+2022-05-10 22:48:43.3|Info|DownloadDecisionMaker|No results found
+2022-05-10 22:50:29.9|Info|ReleaseSearchService|Searching indexers for [Better Call Saul : S06E03]. 2 active indexers
+2022-05-10 22:50:32.5|Info|DownloadDecisionMaker|Processing 30 releases
+2022-05-10 22:50:50.9|Info|DownloadService|Report sent to qBitTorrent. Better Call Saul S06E03 REPACK 720p WEB H264 CAKES
+2022-05-10 23:04:31.8|Info|RssSyncService|Starting RSS Sync
+2022-05-10 23:04:34.5|Info|DownloadDecisionMaker|Processing 64 releases
+2022-05-10 23:04:34.9|Info|RssSyncService|RSS Sync Completed. Reports found: 64, Reports grabbed: 0
+2022-05-10 23:20:02.4|Info|RssSyncService|Starting RSS Sync
+2022-05-10 23:20:02.7|Info|DownloadDecisionMaker|Processing 64 releases
+2022-05-10 23:20:03.0|Info|RssSyncService|RSS Sync Completed. Reports found: 64, Reports grabbed: 0
+2022-05-10 23:28:02.6|Info|SceneMappingService|Updating Scene mappings
+2022-05-10 23:35:32.7|Info|RssSyncService|Starting RSS Sync
+2022-05-10 23:35:32.8|Info|DownloadDecisionMaker|Processing 64 releases
+2022-05-10 23:35:33.0|Info|RssSyncService|RSS Sync Completed. Reports found: 64, Reports grabbed: 0
+2022-05-10 23:44:38.5|Info|AddSeriesService|Adding Series [282254][BoJack Horseman] Path: [/Plex/TV/BoJack Horseman]
+2022-05-10 23:44:38.5|Info|RefreshSeriesService|Updating BoJack Horseman
+2022-05-10 23:44:38.7|Info|RefreshEpisodeService|Starting episode info refresh for: [282254][BoJack Horseman]
+2022-05-10 23:44:38.8|Info|RefreshEpisodeService|Finished episode refresh for series: [282254][BoJack Horseman].
+2022-05-10 23:44:38.8|Info|MediaCoverService|Downloading Banner for [282254][BoJack Horseman] https://artworks.thetvdb.com/banners/graphical/282254-g.jpg
+2022-05-10 23:44:38.9|Info|MediaCoverService|Downloading Poster for [282254][BoJack Horseman] https://artworks.thetvdb.com/banners/posters/282254-6.jpg
+2022-05-10 23:44:39.0|Info|MediaCoverService|Downloading Fanart for [282254][BoJack Horseman] https://artworks.thetvdb.com/banners/fanart/original/282254-1.jpg
+2022-05-10 23:44:39.3|Info|DiskScanService|Scanning BoJack Horseman
+2022-05-10 23:44:39.3|Info|DiskScanService|Completed scanning disk for BoJack Horseman
+2022-05-10 23:44:39.3|Info|SeriesScannedHandler|[BoJack Horseman] was recently added, performing post-add actions
+2022-05-10 23:44:39.4|Info|MetadataService|Series folder does not exist, skipping metadata creation
+2022-05-10 23:44:42.1|Info|MetadataService|Series folder does not exist, skipping metadata image creation
+2022-05-10 23:44:43.3|Info|ReleaseSearchService|Searching indexers for [BoJack Horseman : S01]. 2 active indexers
+2022-05-10 23:44:43.9|Info|ReleaseSearchService|Searching indexers for [BoJack Horseman : S02]. 2 active indexers
+2022-05-10 23:44:44.4|Info|ReleaseSearchService|Searching indexers for [BoJack Horseman : S03]. 2 active indexers
+2022-05-10 23:44:45.2|Info|DownloadDecisionMaker|Processing 7 releases
+2022-05-10 23:44:45.3|Info|SeasonSearchService|Season search completed. 0 reports downloaded.
+2022-05-10 23:44:45.3|Info|ReleaseSearchService|Searching indexers for [BoJack Horseman : S04]. 2 active indexers
+2022-05-10 23:44:46.8|Info|DownloadDecisionMaker|Processing 14 releases
+2022-05-10 23:44:48.8|Info|DownloadService|Report sent to qBitTorrent. BoJack Horseman S02E01 Brand New Couch 1080p NF WEBRip DD 5.1 x264 SNEAkY
+2022-05-10 23:44:49.9|Info|DownloadDecisionMaker|Processing 8 releases
+2022-05-10 23:44:50.9|Info|DownloadDecisionMaker|Processing 28 releases
+2022-05-10 23:45:00.9|Info|DownloadService|Report sent to qBitTorrent. BoJack Horseman S02E02 Yesterdayland 1080p NF WEBRip DD 5.1 x264 SNEAkY
+2022-05-10 23:45:13.5|Warn|HttpClient|HTTP Error - Res: [GET] http://jackett:9117/dl/1337x/?jackett_apikey=(removed)&path=Q2ZESjhNNnNCSEdEbS1wTnBHTDZ3V2lsQkFHc3Q0NFlIMGV4bktRZ1JtTUVfc0t1bVMyLUxXLUJ1azYzVExLMjM5YXdPUGtfVXdKeG1zd3hYT0Z2QUEzbWpBTVZuU25VWk5ZelFLN3RpVkp2MmZGWHJhQ2RZVzdTaWNiMHlkNno1V0FKN0FYaDRtUzJzNlAxVy0zdUl1Yy1LYWtJQnVTQVI4Zy04UXl3M1IxYWZuWkZoSE1BeFZTRGJJSUp3Um43M3VjUHlGcDFBR1YyanRDcVVVRU16SlV6OHBGbUpHemg5N0k4YkNKdkJlUFc2U1hmVDY1XzlBZWdnWEhVeDd0WXJCWEJqUQ&file=Bojack+Horseman+S03+Season+3+Complete+720p+WEBRip+x264+DEFLATE: 404.NotFound (0 bytes)
+2022-05-10 23:45:13.5|Error|QBittorrent|Downloading torrent file for episode 'Bojack Horseman S03 Season 3 Complete 720p WEBRip x264 DEFLATE' failed since it no longer exists (http://jackett:9117/dl/1337x/?jackett_apikey=(removed)&path=Q2ZESjhNNnNCSEdEbS1wTnBHTDZ3V2lsQkFHc3Q0NFlIMGV4bktRZ1JtTUVfc0t1bVMyLUxXLUJ1azYzVExLMjM5YXdPUGtfVXdKeG1zd3hYT0Z2QUEzbWpBTVZuU25VWk5ZelFLN3RpVkp2MmZGWHJhQ2RZVzdTaWNiMHlkNno1V0FKN0FYaDRtUzJzNlAxVy0zdUl1Yy1LYWtJQnVTQVI4Zy04UXl3M1IxYWZuWkZoSE1BeFZTRGJJSUp3Um43M3VjUHlGcDFBR1YyanRDcVVVRU16SlV6OHBGbUpHemg5N0k4YkNKdkJlUFc2U1hmVDY1XzlBZWdnWEhVeDd0WXJCWEJqUQ&file=Bojack+Horseman+S03+Season+3+Complete+720p+WEBRip+x264+DEFLATE)
+
+[v3.0.8.1507] NzbDrone.Common.Http.HttpException: HTTP request failed: [404:NotFound] [GET] at [http://jackett:9117/dl/1337x/?jackett_apikey=(removed)&path=Q2ZESjhNNnNCSEdEbS1wTnBHTDZ3V2lsQkFHc3Q0NFlIMGV4bktRZ1JtTUVfc0t1bVMyLUxXLUJ1azYzVExLMjM5YXdPUGtfVXdKeG1zd3hYT0Z2QUEzbWpBTVZuU25VWk5ZelFLN3RpVkp2MmZGWHJhQ2RZVzdTaWNiMHlkNno1V0FKN0FYaDRtUzJzNlAxVy0zdUl1Yy1LYWtJQnVTQVI4Zy04UXl3M1IxYWZuWkZoSE1BeFZTRGJJSUp3Um43M3VjUHlGcDFBR1YyanRDcVVVRU16SlV6OHBGbUpHemg5N0k4YkNKdkJlUFc2U1hmVDY1XzlBZWdnWEhVeDd0WXJCWEJqUQ&file=Bojack+Horseman+S03+Season+3+Complete+720p+WEBRip+x264+DEFLATE]
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00154] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Common\Http\HttpClient.cs:105 
+  at NzbDrone.Common.Http.HttpClient.Get (NzbDrone.Common.Http.HttpRequest request) [0x00007] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Common\Http\HttpClient.cs:281 
+  at NzbDrone.Core.Download.TorrentClientBase`1[TSettings].DownloadFromWebUrl (NzbDrone.Core.Parser.Model.RemoteEpisode remoteEpisode, System.String torrentUrl) [0x0004c] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Core\Download\TorrentClientBase.cs:135 
+
+
+2022-05-10 23:45:13.6|Warn|ProcessDownloadDecisions|Failed to download release from indexer, no longer available. Bojack Horseman S03 Season 3 Complete 720p WEBRip x264 DEFLATE
+2022-05-10 23:45:25.6|Info|DownloadService|Report sent to qBitTorrent. Bojack Horseman S04E03 1080p WEB x264 STRiFE rarbg
+2022-05-10 23:45:37.0|Info|DownloadService|Report sent to qBitTorrent. BoJack Horseman S02E03 Still Broken 1080p NF WEBRip DD 5.1 x264 SNEAkY
+2022-05-10 23:45:49.3|Info|DownloadService|Report sent to qBitTorrent. BoJack Horseman S03E01 Start Spreading The News 720p WEB H264 EQUATION eztv
+2022-05-10 23:46:02.1|Info|DownloadService|Report sent to qBitTorrent. Bojack Horseman S04E04 1080p WEB x264 STRiFE rarbg
+2022-05-10 23:46:13.2|Info|DownloadService|Report sent to qBitTorrent. BoJack Horseman S02E05 Chickens 1080p NF WEBRip DD 5.1 x264 SNEAkY
+2022-05-10 23:46:25.7|Info|DownloadService|Report sent to qBitTorrent. BoJack Horseman S03E02 The BoJack Horseman Show 720p WEB H264 EQUATION eztv
+2022-05-10 23:46:38.0|Info|DownloadService|Report sent to qBitTorrent. Bojack Horseman S04E05 1080p WEB x264 STRiFE rarbg
+2022-05-10 23:46:49.3|Info|DownloadService|Report sent to qBitTorrent. BoJack Horseman S02E06 Higher Love 1080p NF WEBRip DD 5.1 x264 SNEAkY
+2022-05-10 23:47:01.9|Info|DownloadService|Report sent to qBitTorrent. BoJack Horseman S03E03 BoJack Kills 720p WEB H264 EQUATION eztv
+2022-05-10 23:47:14.6|Info|DownloadService|Report sent to qBitTorrent. Bojack Horseman S04E06 1080p WEB x264 STRiFE rarbg
+2022-05-10 23:47:25.5|Info|DownloadService|Report sent to qBitTorrent. BoJack Horseman S02E07 Hank After Dark 1080p NF WEBRip DD 5.1 x264 SNEAkY
+2022-05-10 23:47:38.0|Info|DownloadService|Report sent to qBitTorrent. BoJack Horseman S03E04 Fish Out Of Water 720p WEB H264 EQUATION eztv
+2022-05-10 23:47:50.3|Info|DownloadService|Report sent to qBitTorrent. Bojack Horseman S04E07 1080p WEB x264 STRiFE rarbg
+2022-05-10 23:48:01.6|Info|DownloadService|Report sent to qBitTorrent. BoJack Horseman S02E09 The Shot 1080p NF WEBRip DD 5.1 x264 SNEAkY
+2022-05-10 23:48:13.7|Info|DownloadService|Report sent to qBitTorrent. Bojack Horseman S03E05 WEBRip X264 RARBG
+2022-05-10 23:48:13.8|Info|SeasonSearchService|Season search completed. 5 reports downloaded.
+2022-05-10 23:48:14.2|Info|ReleaseSearchService|Searching indexers for [BoJack Horseman : S05]. 2 active indexers
+2022-05-10 23:48:15.7|Info|DownloadDecisionMaker|Processing 15 releases
+2022-05-10 23:48:27.2|Info|DownloadService|Report sent to qBitTorrent. Bojack Horseman S04E08 1080p WEB x264 STRiFE rarbg
+2022-05-10 23:48:37.8|Info|DownloadService|Report sent to qBitTorrent. BoJack Horseman S02E10 Yes And 1080p NF WEBRip DD 5.1 x264 SNEAkY
+2022-05-10 23:48:50.4|Info|DownloadService|Report sent to qBitTorrent. BoJack Horseman S05 COMPLETE 720p WEB x264 STRiFE TGx
+2022-05-10 23:48:51.5|Info|SeasonSearchService|Season search completed. 1 reports downloaded.
+2022-05-10 23:48:51.8|Info|ReleaseSearchService|Searching indexers for [BoJack Horseman : S06]. 2 active indexers
+2022-05-10 23:48:54.2|Info|DownloadDecisionMaker|Processing 18 releases
+2022-05-10 23:49:02.6|Info|DownloadService|Report sent to qBitTorrent. Bojack Horseman S04E09 1080p WEB x264 STRiFE rarbg
+2022-05-10 23:49:14.0|Info|DownloadService|Report sent to qBitTorrent. BoJack Horseman S02E11 Escape from LA 1080p NF WEBRip DD 5.1 x264 SNEAkY
+2022-05-10 23:49:26.3|Info|DownloadService|Report sent to qBitTorrent. BoJack Horseman S06 COMPLETE 1080p NF WEB-DL DD 5.1 x264 JETIX TGx
+2022-05-10 23:49:26.9|Info|SeasonSearchService|Season search completed. 1 reports downloaded.
+2022-05-10 23:49:27.2|Info|ReleaseSearchService|Searching indexers for [BoJack Horseman : S01]. 2 active indexers
+2022-05-10 23:49:27.2|Info|DownloadDecisionMaker|Processing 7 releases
+2022-05-10 23:49:27.3|Info|SeasonSearchService|Season search completed. 0 reports downloaded.
+2022-05-10 23:49:39.1|Info|DownloadService|Report sent to qBitTorrent. Bojack Horseman S04E10 1080p WEB x264 STRiFE rarbg
+2022-05-10 23:49:50.2|Info|DownloadService|Report sent to qBitTorrent. BoJack Horseman S02E12 Out to Sea 1080p NF WEBRip DD 5.1 x264 SNEAkY
+2022-05-10 23:49:50.2|Info|SeasonSearchService|Season search completed. 10 reports downloaded.
+2022-05-10 23:50:02.9|Info|DownloadService|Report sent to qBitTorrent. Bojack Horseman S04E11 1080p WEB x264 STRiFE rarbg
+2022-05-10 23:50:15.0|Info|DownloadService|Report sent to qBitTorrent. Bojack Horseman S04E12 1080p WEB x264 STRiFE rarbg
+2022-05-10 23:50:27.0|Info|DownloadService|Report sent to qBitTorrent. Bojack Horseman S04E01 720p WEB x264 STRiFE rartv
+2022-05-10 23:50:39.1|Info|DownloadService|Report sent to qBitTorrent. Bojack Horseman S04E02 720p WEB x264 STRiFE rartv
+2022-05-10 23:50:39.2|Info|SeasonSearchService|Season search completed. 12 reports downloaded.
+2022-05-10 23:51:02.9|Info|RssSyncService|Starting RSS Sync
+2022-05-10 23:51:04.2|Info|DownloadDecisionMaker|Processing 65 releases
+2022-05-10 23:51:04.4|Info|RssSyncService|RSS Sync Completed. Reports found: 65, Reports grabbed: 0
+2022-05-11 00:32:23.7|Info|RssSyncService|Starting RSS Sync
+2022-05-11 00:32:25.4|Info|DownloadDecisionMaker|Processing 64 releases
+2022-05-11 00:32:25.6|Info|RssSyncService|RSS Sync Completed. Reports found: 64, Reports grabbed: 0
+2022-05-11 01:13:33.4|Info|RssSyncService|Starting RSS Sync
+2022-05-11 01:13:34.9|Warn|Torznab|Indexer Jackett 1337x rss sync didn't cover the period between 5/10/2022 11:10:00 PM and 5/10/2022 11:32:00 PM UTC. Search may be required.
+2022-05-11 01:13:34.9|Info|DownloadDecisionMaker|Processing 12 releases
+2022-05-11 01:13:34.9|Info|RssSyncService|RSS Sync Completed. Reports found: 12, Reports grabbed: 0
+2022-05-11 02:23:05.1|Info|RssSyncService|Starting RSS Sync
+2022-05-11 02:23:10.1|Warn|Torznab|Indexer Jackett 1337x rss sync didn't cover the period between 5/11/2022 12:07:00 AM and 5/11/2022 12:46:00 AM UTC. Search may be required.
+2022-05-11 02:23:10.2|Info|DownloadDecisionMaker|Processing 66 releases
+2022-05-11 02:23:10.5|Info|RssSyncService|RSS Sync Completed. Reports found: 66, Reports grabbed: 0
+2022-05-11 03:30:24.1|Info|RssSyncService|Starting RSS Sync
+2022-05-11 03:30:24.2|Info|SceneMappingService|Updating Scene mappings
+2022-05-11 03:30:26.7|Warn|Torznab|Indexer Jackett 1337x rss sync didn't cover the period between 5/11/2022 1:23:10 AM and 5/11/2022 2:10:00 AM UTC. Search may be required.
+2022-05-11 03:30:28.1|Info|DownloadDecisionMaker|Processing 64 releases
+2022-05-11 03:30:28.3|Info|RssSyncService|RSS Sync Completed. Reports found: 64, Reports grabbed: 0
+2022-05-11 04:09:58.5|Info|RssSyncService|Starting RSS Sync
+2022-05-11 04:09:58.8|Info|HousekeepingService|Running housecleaning tasks
+2022-05-11 04:09:58.9|Info|ImportListSyncService|Starting Import List Sync
+2022-05-11 04:09:59.0|Info|Database|Vacuuming Log database
+2022-05-11 04:09:59.2|Info|Database|Log database compressed
+2022-05-11 04:09:59.3|Info|Database|Vacuuming Main database
+2022-05-11 04:09:59.3|Info|ImportListSyncService|Processing 0 list items
+2022-05-11 04:09:59.3|Info|ImportListSyncService|Import List Sync Completed. Items found: 0, Series added: 0
+2022-05-11 04:10:01.4|Info|RecycleBinProvider|Recycle Bin has not been configured, cannot cleanup.
+2022-05-11 04:10:02.2|Info|Database|Main database compressed
+2022-05-11 04:10:11.8|Info|DownloadDecisionMaker|Processing 64 releases
+2022-05-11 04:10:12.0|Info|RssSyncService|RSS Sync Completed. Reports found: 64, Reports grabbed: 0
+2022-05-11 04:20:19.8|Info|ReleaseSearchService|Searching indexers for [Slow Horses : S01E06]. 2 active indexers
+2022-05-11 04:20:25.4|Info|DownloadDecisionMaker|Processing 58 releases
+2022-05-11 04:20:27.4|Info|DownloadService|Report sent to qBitTorrent. Slow Horses S01E06 1080p WEB H264 GLHF TGx
+2022-05-11 04:20:27.5|Info|EpisodeSearchService|Episode search completed. 1 reports downloaded.
+2022-05-11 04:25:29.3|Info|RssSyncService|Starting RSS Sync
+2022-05-11 04:25:29.5|Info|DownloadDecisionMaker|Processing 64 releases
+2022-05-11 04:25:29.8|Info|RssSyncService|RSS Sync Completed. Reports found: 64, Reports grabbed: 0
+2022-05-11 04:40:59.8|Info|RssSyncService|Starting RSS Sync
+2022-05-11 04:40:59.8|Info|DownloadDecisionMaker|Processing 64 releases
+2022-05-11 04:41:00.0|Info|RssSyncService|RSS Sync Completed. Reports found: 64, Reports grabbed: 0
+2022-05-11 05:03:07.8|Info|RssSyncService|Starting RSS Sync
+2022-05-11 05:03:10.1|Info|DownloadDecisionMaker|Processing 65 releases
+2022-05-11 05:03:10.3|Info|RssSyncService|RSS Sync Completed. Reports found: 65, Reports grabbed: 0
+2022-05-11 05:18:38.5|Info|RssSyncService|Starting RSS Sync
+2022-05-11 05:18:38.6|Info|DownloadDecisionMaker|Processing 65 releases
+2022-05-11 05:18:38.8|Info|RssSyncService|RSS Sync Completed. Reports found: 65, Reports grabbed: 0
+2022-05-11 05:35:36.2|Info|RssSyncService|Starting RSS Sync
+2022-05-11 05:35:36.3|Info|DownloadDecisionMaker|Processing 65 releases
+2022-05-11 05:35:36.5|Info|RssSyncService|RSS Sync Completed. Reports found: 65, Reports grabbed: 0
+2022-05-11 05:52:11.6|Info|RssSyncService|Starting RSS Sync
+2022-05-11 05:52:13.7|Warn|Torznab|Indexer Jackett 1337x rss sync didn't cover the period between 5/11/2022 4:00:00 AM and 5/11/2022 4:33:00 AM UTC. Search may be required.
+2022-05-11 05:52:14.7|Info|DownloadDecisionMaker|Processing 70 releases
+2022-05-11 05:52:14.9|Info|RssSyncService|RSS Sync Completed. Reports found: 70, Reports grabbed: 0
+2022-05-11 06:07:42.4|Info|RssSyncService|Starting RSS Sync
+2022-05-11 06:07:42.4|Info|DownloadDecisionMaker|Processing 70 releases
+2022-05-11 06:07:42.6|Info|RssSyncService|RSS Sync Completed. Reports found: 70, Reports grabbed: 0
+2022-05-11 06:22:42.8|Info|RssSyncService|Starting RSS Sync
+2022-05-11 06:22:42.8|Info|DownloadDecisionMaker|Processing 70 releases
+2022-05-11 06:22:43.1|Info|RssSyncService|RSS Sync Completed. Reports found: 70, Reports grabbed: 0
+2022-05-11 06:30:43.5|Info|SceneMappingService|Updating Scene mappings
+2022-05-11 06:37:44.0|Info|RssSyncService|Starting RSS Sync
+2022-05-11 06:37:45.7|Warn|Torznab|Indexer Jackett 1337x rss sync didn't cover the period between 5/11/2022 4:47:00 AM and 5/11/2022 4:51:00 AM UTC. Search may be required.
+2022-05-11 06:37:45.7|Info|DownloadDecisionMaker|Processing 69 releases
+2022-05-11 06:37:45.9|Info|RssSyncService|RSS Sync Completed. Reports found: 69, Reports grabbed: 0
+2022-05-11 06:59:46.4|Info|RssSyncService|Starting RSS Sync
+2022-05-11 06:59:46.4|Info|DownloadDecisionMaker|Processing 69 releases
+2022-05-11 06:59:46.6|Info|RssSyncService|RSS Sync Completed. Reports found: 69, Reports grabbed: 0
+2022-05-11 07:16:04.2|Info|RssSyncService|Starting RSS Sync
+2022-05-11 07:16:06.9|Info|DownloadDecisionMaker|Processing 69 releases
+2022-05-11 07:16:07.1|Info|RssSyncService|RSS Sync Completed. Reports found: 69, Reports grabbed: 0
+2022-05-11 07:31:23.0|Info|RssSyncService|Starting RSS Sync
+2022-05-11 07:31:23.3|Info|DownloadDecisionMaker|Processing 69 releases
+2022-05-11 07:31:23.5|Info|RssSyncService|RSS Sync Completed. Reports found: 69, Reports grabbed: 0
+2022-05-11 07:54:49.1|Info|RssSyncService|Starting RSS Sync
+2022-05-11 07:54:49.2|Info|RefreshSeriesService|Updating The Afterparty
+2022-05-11 07:54:50.1|Info|RefreshEpisodeService|Starting episode info refresh for: [384495][The Afterparty]
+2022-05-11 07:54:50.1|Info|RefreshEpisodeService|Finished episode refresh for series: [384495][The Afterparty].
+2022-05-11 07:54:50.4|Info|DiskScanService|Scanning The Afterparty
+2022-05-11 07:54:55.1|Info|DownloadDecisionMaker|Processing 64 releases
+2022-05-11 07:55:00.2|Info|RssSyncService|RSS Sync Completed. Reports found: 64, Reports grabbed: 0
+2022-05-11 07:55:32.1|Info|DiskScanService|Completed scanning disk for The Afterparty
+2022-05-11 07:55:32.5|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2022-05-11 07:55:32.6|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2022-05-11 07:55:32.9|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2022-05-11 07:55:32.9|Info|ExistingExtraFileService|Found 339 possible extra files, imported 337 files.
+2022-05-11 07:55:32.9|Info|RefreshSeriesService|Updating Atlanta
+2022-05-11 07:55:33.0|Info|RefreshEpisodeService|Starting episode info refresh for: [313999][Atlanta]
+2022-05-11 07:55:33.1|Info|RefreshEpisodeService|Finished episode refresh for series: [313999][Atlanta].
+2022-05-11 07:55:33.1|Info|DiskScanService|Scanning Atlanta
+2022-05-11 07:55:36.2|Info|DiskScanService|Completed scanning disk for Atlanta
+2022-05-11 07:55:36.4|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2022-05-11 07:55:36.4|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2022-05-11 07:55:36.5|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2022-05-11 07:55:36.5|Info|ExistingExtraFileService|Found 3 possible extra files, imported 0 files.
+2022-05-11 07:55:36.5|Info|RefreshSeriesService|Updating Better Call Saul
+2022-05-11 07:55:36.6|Info|RefreshEpisodeService|Starting episode info refresh for: [273181][Better Call Saul]
+2022-05-11 07:55:36.7|Info|RefreshEpisodeService|Finished episode refresh for series: [273181][Better Call Saul].
+2022-05-11 07:55:36.7|Info|DiskScanService|Scanning Better Call Saul
+2022-05-11 07:55:45.6|Info|DiskScanService|Completed scanning disk for Better Call Saul
+2022-05-11 07:55:45.9|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2022-05-11 07:55:45.9|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2022-05-11 07:55:46.0|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2022-05-11 07:55:46.0|Info|ExistingExtraFileService|Found 22 possible extra files, imported 10 files.
+2022-05-11 07:55:46.0|Info|RefreshSeriesService|Skipping refresh of series: BoJack Horseman
+2022-05-11 07:55:46.0|Info|DiskScanService|Scanning BoJack Horseman
+2022-05-11 07:55:46.3|Info|DiskScanService|Completed scanning disk for BoJack Horseman
+2022-05-11 07:55:46.3|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2022-05-11 07:55:46.3|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2022-05-11 07:55:46.3|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2022-05-11 07:55:46.3|Info|ExistingExtraFileService|Found 0 possible extra files, imported 0 files.
+2022-05-11 07:55:46.3|Info|RefreshSeriesService|Skipping refresh of series: Breaking Bad
+2022-05-11 07:55:46.3|Info|DiskScanService|Scanning Breaking Bad
+2022-05-11 07:55:51.6|Info|DiskScanService|Completed scanning disk for Breaking Bad
+2022-05-11 07:55:51.9|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2022-05-11 07:55:52.0|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2022-05-11 07:55:52.0|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2022-05-11 07:55:52.0|Info|ExistingExtraFileService|Found 74 possible extra files, imported 62 files.
+2022-05-11 07:55:52.1|Info|RefreshSeriesService|Skipping refresh of series: Dopesick
+2022-05-11 07:55:52.1|Info|DiskScanService|Scanning Dopesick
+2022-05-11 07:55:52.4|Info|DiskScanService|Completed scanning disk for Dopesick
+2022-05-11 07:55:52.6|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2022-05-11 07:55:52.6|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2022-05-11 07:55:52.6|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2022-05-11 07:55:52.6|Info|ExistingExtraFileService|Found 0 possible extra files, imported 0 files.
+2022-05-11 07:55:52.6|Info|RefreshSeriesService|Updating Halo
+2022-05-11 07:55:52.7|Info|RefreshEpisodeService|Starting episode info refresh for: [366524][Halo]
+2022-05-11 07:55:52.7|Info|RefreshEpisodeService|Finished episode refresh for series: [366524][Halo].
+2022-05-11 07:55:52.7|Info|DiskScanService|Scanning Halo
+2022-05-11 07:55:54.2|Info|DiskScanService|Completed scanning disk for Halo
+2022-05-11 07:55:54.5|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2022-05-11 07:55:54.6|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2022-05-11 07:55:54.6|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2022-05-11 07:55:54.7|Info|ExistingExtraFileService|Found 5 possible extra files, imported 4 files.
+2022-05-11 07:55:54.7|Info|RefreshSeriesService|Skipping refresh of series: Lost
+2022-05-11 07:55:54.8|Info|DiskScanService|Scanning Lost
+2022-05-11 07:56:24.6|Info|DiskScanService|Completed scanning disk for Lost
+2022-05-11 07:56:24.8|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2022-05-11 07:56:24.9|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2022-05-11 07:56:25.0|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2022-05-11 07:56:25.0|Info|ExistingExtraFileService|Found 29 possible extra files, imported 0 files.
+2022-05-11 07:56:25.0|Info|RefreshSeriesService|Updating Peacemaker
+2022-05-11 07:56:25.1|Info|RefreshEpisodeService|Starting episode info refresh for: [391153][Peacemaker]
+2022-05-11 07:56:25.2|Info|RefreshEpisodeService|Finished episode refresh for series: [391153][Peacemaker].
+2022-05-11 07:56:25.4|Info|DiskScanService|Scanning Peacemaker
+2022-05-11 07:56:25.7|Info|DiskScanService|Completed scanning disk for Peacemaker
+2022-05-11 07:56:25.7|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2022-05-11 07:56:25.8|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2022-05-11 07:56:25.8|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2022-05-11 07:56:25.8|Info|ExistingExtraFileService|Found 0 possible extra files, imported 0 files.
+2022-05-11 07:56:25.8|Info|RefreshSeriesService|Updating Rick and Morty
+2022-05-11 07:56:25.9|Info|RefreshEpisodeService|Starting episode info refresh for: [275274][Rick and Morty]
+2022-05-11 07:56:25.9|Info|RefreshEpisodeService|Finished episode refresh for series: [275274][Rick and Morty].
+2022-05-11 07:56:26.0|Info|DiskScanService|Scanning Rick and Morty
+2022-05-11 07:56:28.7|Info|DiskScanService|Completed scanning disk for Rick and Morty
+2022-05-11 07:56:28.7|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2022-05-11 07:56:28.7|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2022-05-11 07:56:28.8|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2022-05-11 07:56:28.8|Info|ExistingExtraFileService|Found 12 possible extra files, imported 11 files.
+2022-05-11 07:56:28.8|Info|RefreshSeriesService|Updating Severance
+2022-05-11 07:56:28.9|Info|RefreshEpisodeService|Starting episode info refresh for: [371980][Severance]
+2022-05-11 07:56:28.9|Info|RefreshEpisodeService|Finished episode refresh for series: [371980][Severance].
+2022-05-11 07:56:28.9|Info|DiskScanService|Scanning Severance
+2022-05-11 07:56:31.3|Info|DiskScanService|Completed scanning disk for Severance
+2022-05-11 07:56:31.7|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2022-05-11 07:56:31.8|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2022-05-11 07:56:31.8|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2022-05-11 07:56:31.8|Info|ExistingExtraFileService|Found 10 possible extra files, imported 9 files.
+2022-05-11 07:56:31.8|Info|RefreshSeriesService|Updating Slow Horses
+2022-05-11 07:56:32.0|Info|RefreshEpisodeService|Starting episode info refresh for: [372264][Slow Horses]
+2022-05-11 07:56:32.0|Info|RefreshEpisodeService|Finished episode refresh for series: [372264][Slow Horses].
+2022-05-11 07:56:32.2|Info|DiskScanService|Scanning Slow Horses
+2022-05-11 07:56:33.7|Info|DiskScanService|Completed scanning disk for Slow Horses
+2022-05-11 07:56:33.9|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2022-05-11 07:56:34.0|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2022-05-11 07:56:34.0|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2022-05-11 07:56:34.0|Info|ExistingExtraFileService|Found 10 possible extra files, imported 10 files.
+2022-05-11 07:56:34.0|Info|RefreshSeriesService|Skipping refresh of series: The Sopranos
+2022-05-11 07:56:34.2|Info|DiskScanService|Scanning The Sopranos
+2022-05-11 07:56:37.9|Info|DiskScanService|Completed scanning disk for The Sopranos
+2022-05-11 07:56:38.0|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2022-05-11 07:56:38.0|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2022-05-11 07:56:38.1|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2022-05-11 07:56:38.1|Info|ExistingExtraFileService|Found 14 possible extra files, imported 1 files.
+2022-05-11 07:56:38.1|Info|RefreshSeriesService|Updating Taskmaster
+2022-05-11 07:56:38.2|Info|RefreshEpisodeService|Starting episode info refresh for: [298905][Taskmaster]
+2022-05-11 07:56:38.3|Info|RefreshEpisodeService|Finished episode refresh for series: [298905][Taskmaster].
+2022-05-11 07:56:38.3|Info|DiskScanService|Scanning Taskmaster
+2022-05-11 07:56:38.8|Info|DiskScanService|Completed scanning disk for Taskmaster
+2022-05-11 07:56:38.8|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2022-05-11 07:56:38.8|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2022-05-11 07:56:38.8|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2022-05-11 07:56:38.8|Info|ExistingExtraFileService|Found 0 possible extra files, imported 0 files.
+2022-05-11 07:56:38.8|Info|RefreshSeriesService|Skipping refresh of series: The Wire
+2022-05-11 07:56:38.9|Info|DiskScanService|Scanning The Wire
+2022-05-11 07:56:42.3|Info|DiskScanService|Completed scanning disk for The Wire
+2022-05-11 07:56:42.5|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2022-05-11 07:56:42.5|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2022-05-11 07:56:42.6|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2022-05-11 07:56:42.6|Info|ExistingExtraFileService|Found 16 possible extra files, imported 2 files.
+2022-05-11 07:56:42.6|Info|RefreshSeriesService|Updating Yellowjackets
+2022-05-11 07:56:42.7|Info|RefreshEpisodeService|Starting episode info refresh for: [399731][Yellowjackets]
+2022-05-11 07:56:42.7|Info|RefreshEpisodeService|Finished episode refresh for series: [399731][Yellowjackets].
+2022-05-11 07:56:43.0|Info|DiskScanService|Scanning Yellowjackets
+2022-05-11 07:56:45.7|Info|DiskScanService|Completed scanning disk for Yellowjackets
+2022-05-11 07:56:45.8|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2022-05-11 07:56:45.8|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2022-05-11 07:56:45.9|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2022-05-11 07:56:45.9|Info|ExistingExtraFileService|Found 19 possible extra files, imported 17 files.
+2022-05-11 08:10:19.8|Info|RssSyncService|Starting RSS Sync
+2022-05-11 08:10:19.9|Info|DownloadDecisionMaker|Processing 64 releases
+2022-05-11 08:10:20.1|Info|RssSyncService|RSS Sync Completed. Reports found: 64, Reports grabbed: 0
+2022-05-11 08:25:20.3|Info|RssSyncService|Starting RSS Sync
+2022-05-11 08:25:20.3|Info|DownloadDecisionMaker|Processing 64 releases
+2022-05-11 08:25:20.5|Info|RssSyncService|RSS Sync Completed. Reports found: 64, Reports grabbed: 0
+2022-05-11 08:40:20.9|Info|RssSyncService|Starting RSS Sync
+2022-05-11 08:40:23.1|Warn|Torznab|Indexer Jackett 1337x rss sync didn't cover the period between 5/11/2022 6:34:00 AM and 5/11/2022 7:08:00 AM UTC. Search may be required.
+2022-05-11 08:40:23.1|Info|DownloadDecisionMaker|Processing 64 releases
+2022-05-11 08:40:23.3|Info|RssSyncService|RSS Sync Completed. Reports found: 64, Reports grabbed: 0
+2022-05-11 09:10:34.9|Info|RssSyncService|Starting RSS Sync
+2022-05-11 09:10:35.1|Info|DownloadDecisionMaker|Processing 64 releases
+2022-05-11 09:10:35.3|Info|RssSyncService|RSS Sync Completed. Reports found: 64, Reports grabbed: 0
+2022-05-11 09:30:31.5|Info|RssSyncService|Starting RSS Sync
+2022-05-11 09:30:34.3|Info|DownloadDecisionMaker|Processing 62 releases
+2022-05-11 09:30:34.4|Info|RssSyncService|RSS Sync Completed. Reports found: 62, Reports grabbed: 0
+2022-05-11 09:31:01.9|Info|SceneMappingService|Updating Scene mappings
+2022-05-11 09:58:48.6|Info|RssSyncService|Starting RSS Sync
+2022-05-11 09:58:48.6|Info|DownloadDecisionMaker|Processing 62 releases
+2022-05-11 09:58:48.8|Info|RssSyncService|RSS Sync Completed. Reports found: 62, Reports grabbed: 0
+2022-05-11 10:13:49.4|Info|RssSyncService|Starting RSS Sync
+2022-05-11 10:13:52.1|Info|DownloadDecisionMaker|Processing 62 releases
+2022-05-11 10:13:52.3|Info|RssSyncService|RSS Sync Completed. Reports found: 62, Reports grabbed: 0
+2022-05-11 10:29:20.0|Info|RssSyncService|Starting RSS Sync
+2022-05-11 10:29:20.1|Info|DownloadDecisionMaker|Processing 62 releases
+2022-05-11 10:29:20.3|Info|RssSyncService|RSS Sync Completed. Reports found: 62, Reports grabbed: 0
+2022-05-11 10:44:20.9|Info|RssSyncService|Starting RSS Sync
+2022-05-11 10:44:20.9|Info|DownloadDecisionMaker|Processing 62 releases
+2022-05-11 10:44:21.1|Info|RssSyncService|RSS Sync Completed. Reports found: 62, Reports grabbed: 0
+2022-05-11 11:15:25.0|Info|RssSyncService|Starting RSS Sync
+2022-05-11 11:15:27.6|Info|DownloadDecisionMaker|Processing 66 releases
+2022-05-11 11:15:27.8|Info|RssSyncService|RSS Sync Completed. Reports found: 66, Reports grabbed: 0
+2022-05-11 11:41:31.2|Info|RssSyncService|Starting RSS Sync
+2022-05-11 11:41:31.3|Info|DownloadDecisionMaker|Processing 66 releases
+2022-05-11 11:41:31.7|Info|RssSyncService|RSS Sync Completed. Reports found: 66, Reports grabbed: 0
+2022-05-11 11:58:41.3|Info|RssSyncService|Starting RSS Sync
+2022-05-11 11:58:43.3|Info|DownloadDecisionMaker|Processing 66 releases
+2022-05-11 11:58:43.5|Info|RssSyncService|RSS Sync Completed. Reports found: 66, Reports grabbed: 0
+2022-05-11 12:22:46.6|Info|RssSyncService|Starting RSS Sync
+2022-05-11 12:22:46.6|Info|DownloadDecisionMaker|Processing 66 releases
+2022-05-11 12:22:46.8|Info|RssSyncService|RSS Sync Completed. Reports found: 66, Reports grabbed: 0
+2022-05-11 12:31:16.9|Info|SceneMappingService|Updating Scene mappings
+2022-05-11 12:51:48.7|Info|RssSyncService|Starting RSS Sync
+2022-05-11 12:51:51.9|Info|DownloadDecisionMaker|Processing 65 releases
+2022-05-11 12:51:52.1|Info|RssSyncService|RSS Sync Completed. Reports found: 65, Reports grabbed: 0
+2022-05-11 13:07:19.6|Info|RssSyncService|Starting RSS Sync
+2022-05-11 13:07:19.6|Info|DownloadDecisionMaker|Processing 65 releases
+2022-05-11 13:07:19.8|Info|RssSyncService|RSS Sync Completed. Reports found: 65, Reports grabbed: 0
+2022-05-11 13:22:20.3|Info|RssSyncService|Starting RSS Sync
+2022-05-11 13:22:20.4|Info|DownloadDecisionMaker|Processing 65 releases
+2022-05-11 13:22:20.6|Info|RssSyncService|RSS Sync Completed. Reports found: 65, Reports grabbed: 0
+2022-05-11 13:37:21.2|Info|RssSyncService|Starting RSS Sync
+2022-05-11 13:37:24.6|Info|DownloadDecisionMaker|Processing 67 releases
+2022-05-11 13:37:24.8|Info|RssSyncService|RSS Sync Completed. Reports found: 67, Reports grabbed: 0
+2022-05-11 13:52:26.6|Info|RssSyncService|Starting RSS Sync
+2022-05-11 13:52:26.7|Info|DownloadDecisionMaker|Processing 67 releases
+2022-05-11 13:52:26.9|Info|RssSyncService|RSS Sync Completed. Reports found: 67, Reports grabbed: 0
+2022-05-11 14:07:27.4|Info|RssSyncService|Starting RSS Sync
+2022-05-11 14:07:27.5|Info|DownloadDecisionMaker|Processing 67 releases
+2022-05-11 14:07:27.7|Info|RssSyncService|RSS Sync Completed. Reports found: 67, Reports grabbed: 0
+2022-05-11 14:22:28.1|Info|RssSyncService|Starting RSS Sync
+2022-05-11 14:22:30.3|Info|DownloadDecisionMaker|Processing 66 releases
+2022-05-11 14:22:30.5|Info|RssSyncService|RSS Sync Completed. Reports found: 66, Reports grabbed: 0
+2022-05-11 14:54:04.4|Info|RssSyncService|Starting RSS Sync
+2022-05-11 14:54:04.6|Info|DownloadDecisionMaker|Processing 66 releases
+2022-05-11 14:54:04.8|Info|RssSyncService|RSS Sync Completed. Reports found: 66, Reports grabbed: 0
+2022-05-11 16:15:48.2|Info|SceneMappingService|Updating Scene mappings
+2022-05-11 16:15:48.3|Info|RssSyncService|Starting RSS Sync
+2022-05-11 16:15:50.7|Warn|Torznab|Indexer Jackett 1337x rss sync didn't cover the period between 5/11/2022 1:11:00 PM and 5/11/2022 2:35:00 PM UTC. Search may be required.
+2022-05-11 16:15:50.7|Info|DownloadDecisionMaker|Processing 67 releases
+2022-05-11 16:15:51.0|Info|RssSyncService|RSS Sync Completed. Reports found: 67, Reports grabbed: 0
+2022-05-11 16:15:52.0|Error|SceneMappingService|Failed to Update Scene Mappings
+
+[v3.0.8.1507] System.Net.WebException: Failed to read complete http response ---> System.Net.WebException: Expecting chunk trailer.
+  at System.Net.MonoChunkStream.ThrowExpectingChunkTrailer () [0x0000e] in <9c6e2cb7ddd8473fa420642ddcf7ce48>:0 
+  at System.Net.MonoChunkStream.FinishReading (System.Threading.CancellationToken cancellationToken) [0x00140] in <9c6e2cb7ddd8473fa420642ddcf7ce48>:0 
+  at System.Net.HttpWebRequest.RunWithTimeoutWorker[T] (System.Threading.Tasks.Task`1[TResult] workerTask, System.Int32 timeout, System.Action abort, System.Func`1[TResult] aborted, System.Threading.CancellationTokenSource cts) [0x000f8] in <9c6e2cb7ddd8473fa420642ddcf7ce48>:0 
+  at System.Net.WebConnectionStream.Read (System.Byte[] buffer, System.Int32 offset, System.Int32 count) [0x00085] in <9c6e2cb7ddd8473fa420642ddcf7ce48>:0 
+  at NzbDrone.Common.Extensions.StreamExtensions.ToBytes (System.IO.Stream input) [0x0001c] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Common\Extensions\StreamExtensions.cs:13 
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x00235] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:132 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x002be] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:150 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x00086] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Common\Http\HttpClient.cs:126 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Common\Http\HttpClient.cs:59 
+  at NzbDrone.Common.Http.HttpClient.Get (NzbDrone.Common.Http.HttpRequest request) [0x00007] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Common\Http\HttpClient.cs:281 
+  at NzbDrone.Common.Http.HttpClient.Get[T] (NzbDrone.Common.Http.HttpRequest request) [0x00000] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Common\Http\HttpClient.cs:286 
+  at NzbDrone.Core.DataAugmentation.Scene.SceneMappingProxy.Fetch () [0x0001b] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Core\DataAugmentation\Scene\SceneMappingProxy.cs:29 
+  at NzbDrone.Core.DataAugmentation.Scene.ServicesProvider.GetSceneMappings () [0x00000] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Core\DataAugmentation\Scene\ServicesProvider.cs:16 
+  at NzbDrone.Core.DataAugmentation.Scene.SceneMappingService.UpdateMappings () [0x0002f] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Core\DataAugmentation\Scene\SceneMappingService.cs:136 
+
+2022-05-11 17:23:10.2|Info|RssSyncService|Starting RSS Sync
+2022-05-11 17:23:12.2|Info|DownloadDecisionMaker|Processing 70 releases
+2022-05-11 17:23:17.6|Info|RssSyncService|RSS Sync Completed. Reports found: 70, Reports grabbed: 0
+2022-05-11 18:12:44.3|Info|RssSyncService|Starting RSS Sync
+2022-05-11 18:12:47.8|Info|DownloadDecisionMaker|Processing 69 releases
+2022-05-11 18:12:48.0|Info|RssSyncService|RSS Sync Completed. Reports found: 69, Reports grabbed: 0
+2022-05-11 18:45:48.1|Info|RssSyncService|Starting RSS Sync
+2022-05-11 18:45:48.1|Info|DownloadDecisionMaker|Processing 69 releases
+2022-05-11 18:45:48.3|Info|RssSyncService|RSS Sync Completed. Reports found: 69, Reports grabbed: 0
+2022-05-11 20:08:08.3|Info|SceneMappingService|Updating Scene mappings
+2022-05-11 20:08:08.4|Info|RefreshSeriesService|Updating The Afterparty
+2022-05-11 20:08:08.8|Info|RssSyncService|Starting RSS Sync
+2022-05-11 20:08:09.2|Info|RefreshEpisodeService|Starting episode info refresh for: [384495][The Afterparty]
+2022-05-11 20:08:09.2|Info|RefreshEpisodeService|Finished episode refresh for series: [384495][The Afterparty].
+2022-05-11 20:08:09.5|Info|DiskScanService|Scanning The Afterparty
+2022-05-11 21:03:10.1|Warn|Torznab|Indexer Jackett 1337x rss sync didn't cover the period between 5/11/2022 5:12:47 PM and 5/11/2022 5:36:00 PM UTC. Search may be required.
+2022-05-11 21:03:11.2|Info|DownloadDecisionMaker|Processing 69 releases
+2022-05-11 21:03:13.7|Info|RssSyncService|RSS Sync Completed. Reports found: 69, Reports grabbed: 0
+2022-05-11 21:03:31.0|Info|DiskScanService|Completed scanning disk for The Afterparty
+2022-05-11 21:03:33.5|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2022-05-11 21:03:33.6|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2022-05-11 21:03:34.8|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2022-05-11 21:03:34.8|Info|ExistingExtraFileService|Found 339 possible extra files, imported 337 files.
+2022-05-11 21:03:35.0|Info|RefreshSeriesService|Updating Atlanta
+2022-05-11 21:03:35.2|Info|RefreshEpisodeService|Starting episode info refresh for: [313999][Atlanta]
+2022-05-11 21:03:35.2|Info|RefreshEpisodeService|Finished episode refresh for series: [313999][Atlanta].
+2022-05-11 21:03:35.3|Info|DiskScanService|Scanning Atlanta
+2022-05-11 21:57:00.5|Info|DiskScanService|Completed scanning disk for Atlanta
+2022-05-11 21:57:00.8|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2022-05-11 21:57:00.8|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2022-05-11 21:57:01.0|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2022-05-11 21:57:01.0|Info|ExistingExtraFileService|Found 3 possible extra files, imported 0 files.
+2022-05-11 21:57:01.0|Info|RefreshSeriesService|Updating Better Call Saul
+2022-05-11 21:57:01.6|Info|RefreshEpisodeService|Starting episode info refresh for: [273181][Better Call Saul]
+2022-05-11 21:57:01.7|Info|RefreshEpisodeService|Finished episode refresh for series: [273181][Better Call Saul].
+2022-05-11 21:57:01.7|Info|DiskScanService|Scanning Better Call Saul
+2022-05-11 21:57:18.2|Info|RssSyncService|Starting RSS Sync
+2022-05-11 22:41:37.5|Warn|Torznab|Indexer Jackett 1337x rss sync didn't cover the period between 5/11/2022 7:08:11 PM and 5/11/2022 8:58:00 PM UTC. Search may be required.
+2022-05-11 22:41:37.5|Info|DownloadDecisionMaker|Processing 69 releases
+2022-05-11 22:41:53.3|Info|RssSyncService|RSS Sync Completed. Reports found: 69, Reports grabbed: 0
+2022-05-11 23:30:41.1|Info|DiskScanService|Completed scanning disk for Better Call Saul
+2022-05-11 23:30:51.4|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2022-05-11 23:30:51.4|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2022-05-11 23:30:51.6|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2022-05-11 23:30:51.6|Info|ExistingExtraFileService|Found 22 possible extra files, imported 10 files.
+2022-05-11 23:30:51.6|Info|RefreshSeriesService|Skipping refresh of series: BoJack Horseman
+2022-05-11 23:30:51.6|Info|DiskScanService|Scanning BoJack Horseman
+2022-05-11 23:30:53.5|Info|DiskScanService|Completed scanning disk for BoJack Horseman
+2022-05-11 23:30:53.5|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2022-05-11 23:30:53.5|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2022-05-11 23:30:53.5|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2022-05-11 23:30:53.5|Info|ExistingExtraFileService|Found 0 possible extra files, imported 0 files.
+2022-05-11 23:30:53.5|Info|RefreshSeriesService|Skipping refresh of series: Breaking Bad
+2022-05-11 23:30:53.5|Info|DiskScanService|Scanning Breaking Bad
+2022-05-11 23:31:00.1|Info|DiskScanService|Completed scanning disk for Breaking Bad
+2022-05-11 23:52:08.6|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2022-05-11 23:52:08.7|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2022-05-11 23:52:09.1|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2022-05-11 23:52:09.1|Info|ExistingExtraFileService|Found 74 possible extra files, imported 62 files.
+2022-05-11 23:52:09.2|Info|RefreshSeriesService|Skipping refresh of series: Dopesick
+2022-05-11 23:52:09.4|Info|DiskScanService|Scanning Dopesick
+2022-05-11 23:52:09.7|Info|DiskScanService|Completed scanning disk for Dopesick
+2022-05-11 23:52:09.8|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2022-05-11 23:52:09.8|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2022-05-11 23:52:09.8|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2022-05-11 23:52:09.8|Info|ExistingExtraFileService|Found 0 possible extra files, imported 0 files.
+2022-05-11 23:52:09.8|Info|RefreshSeriesService|Updating Halo
+2022-05-11 23:52:10.3|Info|RefreshEpisodeService|Starting episode info refresh for: [366524][Halo]
+2022-05-11 23:52:10.4|Info|RefreshEpisodeService|Finished episode refresh for series: [366524][Halo].
+2022-05-11 23:52:10.5|Info|DiskScanService|Scanning Halo
+2022-05-11 23:52:12.4|Info|RssSyncService|Starting RSS Sync
+2022-05-11 23:52:13.0|Info|DiskScanService|Completed scanning disk for Halo
+2022-05-11 23:52:13.9|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2022-05-11 23:52:13.9|Info|ExistingSubtitleImporter|Found 1 existing subtitle files
+2022-05-11 23:52:14.0|Info|DownloadDecisionMaker|Processing 68 releases
+2022-05-11 23:52:14.2|Info|RssSyncService|RSS Sync Completed. Reports found: 68, Reports grabbed: 0
+2022-05-11 23:52:20.0|Info|ExistingOtherExtraImporter|Found 1 existing other extra files
+2022-05-11 23:52:20.0|Info|ExistingExtraFileService|Found 5 possible extra files, imported 4 files.
+2022-05-11 23:52:20.1|Info|RefreshSeriesService|Skipping refresh of series: Lost
+2022-05-11 23:52:20.2|Info|DiskScanService|Scanning Lost
+2022-05-12 00:05:39.7|Info|SceneMappingService|Updating Scene mappings
+2022-05-12 00:05:43.1|Error|SceneMappingService|Failed to Update Scene Mappings
+
+[v3.0.8.1507] System.Net.WebException: Error getting response stream (ReadDoneAsync2): ReceiveFailure: 'https://services.sonarr.tv/v1/scenemapping' ---> System.Net.WebException: Error getting response stream (ReadDoneAsync2): ReceiveFailure
+  at System.Net.WebResponseStream.InitReadAsync (System.Threading.CancellationToken cancellationToken) [0x000f3] in <9c6e2cb7ddd8473fa420642ddcf7ce48>:0 
+  at System.Net.WebOperation.Run () [0x001d9] in <9c6e2cb7ddd8473fa420642ddcf7ce48>:0 
+  at System.Net.WebCompletionSource`1[T].WaitForCompletion () [0x00094] in <9c6e2cb7ddd8473fa420642ddcf7ce48>:0 
+  at System.Net.HttpWebRequest.RunWithTimeoutWorker[T] (System.Threading.Tasks.Task`1[TResult] workerTask, System.Int32 timeout, System.Action abort, System.Func`1[TResult] aborted, System.Threading.CancellationTokenSource cts) [0x000f8] in <9c6e2cb7ddd8473fa420642ddcf7ce48>:0 
+  at System.Net.HttpWebRequest.GetResponse () [0x00016] in <9c6e2cb7ddd8473fa420642ddcf7ce48>:0 
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x00123] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:81 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x001c0] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:107 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x00086] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Common\Http\HttpClient.cs:126 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Common\Http\HttpClient.cs:59 
+  at NzbDrone.Common.Http.HttpClient.Get (NzbDrone.Common.Http.HttpRequest request) [0x00007] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Common\Http\HttpClient.cs:281 
+  at NzbDrone.Common.Http.HttpClient.Get[T] (NzbDrone.Common.Http.HttpRequest request) [0x00000] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Common\Http\HttpClient.cs:286 
+  at NzbDrone.Core.DataAugmentation.Scene.SceneMappingProxy.Fetch () [0x0001b] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Core\DataAugmentation\Scene\SceneMappingProxy.cs:29 
+  at NzbDrone.Core.DataAugmentation.Scene.ServicesProvider.GetSceneMappings () [0x00000] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Core\DataAugmentation\Scene\ServicesProvider.cs:16 
+  at NzbDrone.Core.DataAugmentation.Scene.SceneMappingService.UpdateMappings () [0x0002f] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Core\DataAugmentation\Scene\SceneMappingService.cs:136 
+
+2022-05-12 00:07:19.6|Info|DiskScanService|Completed scanning disk for Lost
+2022-05-12 00:07:19.8|Info|RssSyncService|Starting RSS Sync
+2022-05-12 00:07:19.8|Info|DownloadDecisionMaker|Processing 68 releases
+2022-05-12 00:07:20.3|Info|RssSyncService|RSS Sync Completed. Reports found: 68, Reports grabbed: 0
+2022-05-12 00:07:34.2|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2022-05-12 00:07:34.3|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2022-05-12 00:07:34.5|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2022-05-12 00:07:34.5|Info|ExistingExtraFileService|Found 29 possible extra files, imported 0 files.
+2022-05-12 00:07:34.6|Info|RefreshSeriesService|Updating Peacemaker
+2022-05-12 00:07:34.7|Info|RefreshEpisodeService|Starting episode info refresh for: [391153][Peacemaker]
+2022-05-12 00:07:34.7|Info|RefreshEpisodeService|Finished episode refresh for series: [391153][Peacemaker].
+2022-05-12 00:07:34.8|Info|DiskScanService|Scanning Peacemaker
+2022-05-12 00:07:35.9|Info|DiskScanService|Completed scanning disk for Peacemaker
+2022-05-12 00:07:36.0|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2022-05-12 00:07:36.0|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2022-05-12 00:07:36.0|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2022-05-12 00:07:36.0|Info|ExistingExtraFileService|Found 0 possible extra files, imported 0 files.
+2022-05-12 00:07:36.0|Info|RefreshSeriesService|Updating Rick and Morty
+2022-05-12 00:07:36.2|Info|RefreshEpisodeService|Starting episode info refresh for: [275274][Rick and Morty]
+2022-05-12 00:07:36.3|Info|RefreshEpisodeService|Finished episode refresh for series: [275274][Rick and Morty].
+2022-05-12 00:07:36.3|Info|DiskScanService|Scanning Rick and Morty
+2022-05-12 00:07:39.4|Info|DiskScanService|Completed scanning disk for Rick and Morty
+2022-05-12 00:07:39.4|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2022-05-12 00:07:39.5|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2022-05-12 00:07:39.9|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2022-05-12 00:07:39.9|Info|ExistingExtraFileService|Found 12 possible extra files, imported 11 files.
+2022-05-12 00:07:40.1|Info|RefreshSeriesService|Updating Severance
+2022-05-12 00:07:40.3|Info|RefreshEpisodeService|Starting episode info refresh for: [371980][Severance]
+2022-05-12 00:07:40.3|Info|RefreshEpisodeService|Finished episode refresh for series: [371980][Severance].
+2022-05-12 00:07:40.3|Info|DiskScanService|Scanning Severance
+2022-05-12 00:13:52.6|Info|DiskScanService|Completed scanning disk for Severance
+2022-05-12 00:14:17.0|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2022-05-12 00:14:17.0|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2022-05-12 00:14:17.2|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2022-05-12 00:14:17.2|Info|ExistingExtraFileService|Found 10 possible extra files, imported 9 files.
+2022-05-12 00:14:17.2|Info|RefreshSeriesService|Updating Slow Horses
+2022-05-12 00:14:17.4|Info|RefreshEpisodeService|Starting episode info refresh for: [372264][Slow Horses]
+2022-05-12 00:14:17.4|Info|RefreshEpisodeService|Finished episode refresh for series: [372264][Slow Horses].
+2022-05-12 00:14:17.4|Info|DiskScanService|Scanning Slow Horses
+2022-05-12 00:14:20.1|Info|DiskScanService|Completed scanning disk for Slow Horses
+2022-05-12 00:14:20.6|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2022-05-12 00:14:20.6|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2022-05-12 00:14:20.7|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2022-05-12 00:14:20.7|Info|ExistingExtraFileService|Found 10 possible extra files, imported 10 files.
+2022-05-12 00:14:20.7|Info|RefreshSeriesService|Skipping refresh of series: The Sopranos
+2022-05-12 00:14:20.7|Info|DiskScanService|Scanning The Sopranos
+2022-05-12 00:34:23.4|Info|RssSyncService|Starting RSS Sync
+2022-05-12 00:34:23.5|Info|DiskScanService|Completed scanning disk for The Sopranos
+2022-05-12 00:34:23.7|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2022-05-12 00:34:23.7|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2022-05-12 00:34:23.8|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2022-05-12 00:34:23.8|Info|ExistingExtraFileService|Found 14 possible extra files, imported 1 files.
+2022-05-12 00:34:24.0|Info|RefreshSeriesService|Updating Taskmaster
+2022-05-12 00:34:24.1|Info|RefreshEpisodeService|Starting episode info refresh for: [298905][Taskmaster]
+2022-05-12 00:34:24.2|Info|RefreshEpisodeService|Finished episode refresh for series: [298905][Taskmaster].
+2022-05-12 00:34:24.2|Info|DiskScanService|Scanning Taskmaster
+2022-05-12 00:34:24.9|Info|DiskScanService|Completed scanning disk for Taskmaster
+2022-05-12 00:34:24.9|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2022-05-12 00:34:24.9|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2022-05-12 00:34:24.9|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2022-05-12 00:34:24.9|Info|ExistingExtraFileService|Found 0 possible extra files, imported 0 files.
+2022-05-12 00:34:24.9|Info|RefreshSeriesService|Skipping refresh of series: The Wire
+2022-05-12 00:34:25.0|Info|DownloadDecisionMaker|Processing 68 releases
+2022-05-12 00:34:25.1|Info|DiskScanService|Scanning The Wire
+2022-05-12 00:34:25.3|Info|RssSyncService|RSS Sync Completed. Reports found: 68, Reports grabbed: 0
+2022-05-12 00:34:34.1|Info|DiskScanService|Completed scanning disk for The Wire
+2022-05-12 00:34:34.3|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2022-05-12 00:34:34.3|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2022-05-12 00:34:34.4|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2022-05-12 00:34:34.4|Info|ExistingExtraFileService|Found 16 possible extra files, imported 2 files.
+2022-05-12 00:34:34.4|Info|RefreshSeriesService|Updating Yellowjackets
+2022-05-12 00:34:34.5|Info|RefreshEpisodeService|Starting episode info refresh for: [399731][Yellowjackets]
+2022-05-12 00:34:34.5|Info|RefreshEpisodeService|Finished episode refresh for series: [399731][Yellowjackets].
+2022-05-12 00:34:34.6|Info|DiskScanService|Scanning Yellowjackets
+2022-05-12 00:34:39.6|Info|DiskScanService|Completed scanning disk for Yellowjackets
+2022-05-12 00:34:39.8|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2022-05-12 00:34:39.8|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2022-05-12 00:34:40.1|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2022-05-12 00:34:40.1|Info|ExistingExtraFileService|Found 19 possible extra files, imported 17 files.
+2022-05-12 00:56:48.1|Info|RssSyncService|Starting RSS Sync
+2022-05-12 00:56:48.2|Info|DownloadDecisionMaker|Processing 68 releases
+2022-05-12 00:56:48.4|Info|RssSyncService|RSS Sync Completed. Reports found: 68, Reports grabbed: 0
+2022-05-12 02:00:21.7|Info|RssSyncService|Starting RSS Sync
+2022-05-12 02:00:23.2|Info|DownloadDecisionMaker|Processing 68 releases
+2022-05-12 02:00:23.7|Info|RssSyncService|RSS Sync Completed. Reports found: 68, Reports grabbed: 0
+2022-05-12 02:18:04.5|Info|RssSyncService|Starting RSS Sync
+2022-05-12 02:18:04.6|Info|DownloadDecisionMaker|Processing 68 releases
+2022-05-12 02:18:04.8|Info|RssSyncService|RSS Sync Completed. Reports found: 68, Reports grabbed: 0
+2022-05-12 02:36:00.5|Info|RssSyncService|Starting RSS Sync
+2022-05-12 02:36:05.1|Info|DownloadDecisionMaker|Processing 65 releases
+2022-05-12 02:36:05.3|Info|RssSyncService|RSS Sync Completed. Reports found: 65, Reports grabbed: 0
+2022-05-12 03:28:33.0|Info|RssSyncService|Starting RSS Sync
+2022-05-12 03:28:33.2|Info|SceneMappingService|Updating Scene mappings
+2022-05-12 03:28:35.8|Warn|Torznab|Indexer Jackett 1337x rss sync didn't cover the period between 5/12/2022 1:36:03 AM and 5/12/2022 1:39:00 AM UTC. Search may be required.
+2022-05-12 03:28:37.9|Info|DownloadDecisionMaker|Processing 68 releases
+2022-05-12 03:28:38.2|Info|RssSyncService|RSS Sync Completed. Reports found: 68, Reports grabbed: 0
+2022-05-12 04:38:19.2|Info|HousekeepingService|Running housecleaning tasks
+2022-05-12 04:38:19.3|Info|Database|Vacuuming Log database
+2022-05-12 04:38:19.3|Info|RssSyncService|Starting RSS Sync
+2022-05-12 04:38:19.6|Info|Database|Log database compressed
+2022-05-12 04:38:19.6|Info|Database|Vacuuming Main database
+2022-05-12 04:38:21.4|Warn|Torznab|Indexer Jackett 1337x rss sync didn't cover the period between 5/12/2022 2:28:35 AM and 5/12/2022 3:03:00 AM UTC. Search may be required.
+2022-05-12 04:38:22.0|Info|DownloadDecisionMaker|Processing 65 releases
+2022-05-12 04:38:22.1|Info|ImportListSyncService|Starting Import List Sync
+2022-05-12 04:38:22.3|Info|RssSyncService|RSS Sync Completed. Reports found: 65, Reports grabbed: 0
+2022-05-12 04:38:22.4|Info|RecycleBinProvider|Recycle Bin has not been configured, cannot cleanup.
+2022-05-12 04:38:23.0|Info|Database|Main database compressed
+2022-05-12 04:38:23.1|Info|ImportListSyncService|Processing 0 list items
+2022-05-12 04:38:23.2|Info|ImportListSyncService|Import List Sync Completed. Items found: 0, Series added: 0
+2022-05-12 05:46:07.0|Info|RssSyncService|Starting RSS Sync
+2022-05-12 05:46:08.8|Warn|Torznab|Indexer Jackett 1337x rss sync didn't cover the period between 5/12/2022 3:34:00 AM and 5/12/2022 4:26:00 AM UTC. Search may be required.
+2022-05-12 05:46:08.9|Info|DownloadDecisionMaker|Processing 68 releases
+2022-05-12 05:46:09.1|Info|RssSyncService|RSS Sync Completed. Reports found: 68, Reports grabbed: 0
+2022-05-12 06:31:49.7|Info|SceneMappingService|Updating Scene mappings
+2022-05-12 06:31:50.3|Info|RssSyncService|Starting RSS Sync
+2022-05-12 06:31:52.5|Warn|Torznab|Indexer Jackett 1337x rss sync didn't cover the period between 5/12/2022 4:46:00 AM and 5/12/2022 4:58:00 AM UTC. Search may be required.
+2022-05-12 06:31:55.9|Info|DownloadDecisionMaker|Processing 67 releases
+2022-05-12 06:31:56.5|Info|RssSyncService|RSS Sync Completed. Reports found: 67, Reports grabbed: 0
+2022-05-12 06:31:59.2|Error|CommandExecutor|Error occurred while executing task CheckHealth
+
+[v3.0.8.1507] System.Net.WebException: Error getting response stream (ReadDoneAsync2): ReceiveFailure: 'https://services.sonarr.tv/v1/update/main?version=3.0.8.1507&os=linux&runtimeVer=6.12.0.122&active=true' ---> System.Net.WebException: Error getting response stream (ReadDoneAsync2): ReceiveFailure
+  at System.Net.WebResponseStream.InitReadAsync (System.Threading.CancellationToken cancellationToken) [0x000f3] in <9c6e2cb7ddd8473fa420642ddcf7ce48>:0 
+  at System.Net.WebOperation.Run () [0x001d9] in <9c6e2cb7ddd8473fa420642ddcf7ce48>:0 
+  at System.Net.WebCompletionSource`1[T].WaitForCompletion () [0x00094] in <9c6e2cb7ddd8473fa420642ddcf7ce48>:0 
+  at System.Net.HttpWebRequest.RunWithTimeoutWorker[T] (System.Threading.Tasks.Task`1[TResult] workerTask, System.Int32 timeout, System.Action abort, System.Func`1[TResult] aborted, System.Threading.CancellationTokenSource cts) [0x000f8] in <9c6e2cb7ddd8473fa420642ddcf7ce48>:0 
+  at System.Net.HttpWebRequest.GetResponse () [0x00016] in <9c6e2cb7ddd8473fa420642ddcf7ce48>:0 
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x00123] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:81 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x001c0] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:107 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x00086] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Common\Http\HttpClient.cs:126 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Common\Http\HttpClient.cs:59 
+  at NzbDrone.Common.Http.HttpClient.Get (NzbDrone.Common.Http.HttpRequest request) [0x00007] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Common\Http\HttpClient.cs:281 
+  at NzbDrone.Common.Http.HttpClient.Get[T] (NzbDrone.Common.Http.HttpRequest request) [0x00000] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Common\Http\HttpClient.cs:286 
+  at NzbDrone.Core.Update.UpdatePackageProvider.GetLatestUpdate (System.String branch, System.Version currentVersion) [0x00099] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Core\Update\UpdatePackageProvider.cs:46 
+  at NzbDrone.Core.Update.CheckUpdateService.AvailableUpdate () [0x00000] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Core\Update\UpdateCheckService.cs:26 
+  at NzbDrone.Core.HealthCheck.Checks.UpdateCheck.Check () [0x000f7] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Core\HealthCheck\Checks\UpdateCheck.cs:63 
+  at NzbDrone.Core.HealthCheck.HealthCheckService+<>c.<PerformHealthCheck>b__14_0 (NzbDrone.Core.HealthCheck.IProvideHealthCheck c) [0x00000] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Core\HealthCheck\HealthCheckService.cs:79 
+  at System.Linq.Enumerable+SelectArrayIterator`2[TSource,TResult].ToList () [0x00014] in <5b415632df1f4365ae2242b1a257bb5b>:0 
+  at System.Linq.Enumerable.ToList[TSource] (System.Collections.Generic.IEnumerable`1[T] source) [0x0001f] in <5b415632df1f4365ae2242b1a257bb5b>:0 
+  at NzbDrone.Core.HealthCheck.HealthCheckService.PerformHealthCheck (NzbDrone.Core.HealthCheck.IProvideHealthCheck[] healthChecks) [0x00000] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Core\HealthCheck\HealthCheckService.cs:79 
+  at NzbDrone.Core.HealthCheck.HealthCheckService.Execute (NzbDrone.Core.HealthCheck.CheckHealthCommand message) [0x00016] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Core\HealthCheck\HealthCheckService.cs:111 
+  at NzbDrone.Core.Messaging.Commands.CommandExecutor.ExecuteCommand[TCommand] (TCommand command, NzbDrone.Core.Messaging.Commands.CommandModel commandModel) [0x000e0] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Core\Messaging\Commands\CommandExecutor.cs:96 
+  at (wrapper dynamic-method) System.Object.CallSite.Target(System.Runtime.CompilerServices.Closure,System.Runtime.CompilerServices.CallSite,NzbDrone.Core.Messaging.Commands.CommandExecutor,object,NzbDrone.Core.Messaging.Commands.CommandModel)
+  at System.Dynamic.UpdateDelegates.UpdateAndExecuteVoid3[T0,T1,T2] (System.Runtime.CompilerServices.CallSite site, T0 arg0, T1 arg1, T2 arg2) [0x0008b] in <5b415632df1f4365ae2242b1a257bb5b>:0 
+  at (wrapper dynamic-method) System.Object.CallSite.Target(System.Runtime.CompilerServices.Closure,System.Runtime.CompilerServices.CallSite,NzbDrone.Core.Messaging.Commands.CommandExecutor,object,NzbDrone.Core.Messaging.Commands.CommandModel)
+  at NzbDrone.Core.Messaging.Commands.CommandExecutor.ExecuteCommands () [0x00027] in M:\BuildAgent\work\63739567f01dbcc2\src\NzbDrone.Core\Messaging\Commands\CommandExecutor.cs:41 
+
+2022-05-12 07:15:37.9|Info|RssSyncService|Starting RSS Sync
+2022-05-12 07:15:40.1|Warn|Torznab|Indexer Jackett 1337x rss sync didn't cover the period between 5/12/2022 5:24:00 AM and 5/12/2022 6:13:00 AM UTC. Search may be required.
+2022-05-12 07:15:40.5|Info|DownloadDecisionMaker|Processing 65 releases
+2022-05-12 07:15:40.8|Info|RssSyncService|RSS Sync Completed. Reports found: 65, Reports grabbed: 0
+2022-05-12 07:53:27.0|Info|RssSyncService|Starting RSS Sync
+2022-05-12 07:53:29.0|Warn|Torznab|Indexer Jackett 1337x rss sync didn't cover the period between 5/12/2022 6:15:40 AM and 5/12/2022 6:30:00 AM UTC. Search may be required.
+2022-05-12 07:53:29.3|Info|DownloadDecisionMaker|Processing 66 releases
+2022-05-12 07:53:29.5|Info|RssSyncService|RSS Sync Completed. Reports found: 66, Reports grabbed: 0
+2022-05-12 08:19:44.8|Info|RssSyncService|Starting RSS Sync
+2022-05-12 08:19:44.8|Info|DownloadDecisionMaker|Processing 66 releases
+2022-05-12 08:19:45.0|Info|RssSyncService|RSS Sync Completed. Reports found: 66, Reports grabbed: 0
+2022-05-12 08:34:47.7|Info|RssSyncService|Starting RSS Sync
+2022-05-12 08:34:50.1|Warn|Torznab|Indexer Jackett 1337x rss sync didn't cover the period between 5/12/2022 6:53:29 AM and 5/12/2022 7:13:00 AM UTC. Search may be required.
+2022-05-12 08:34:50.2|Info|DownloadDecisionMaker|Processing 66 releases
+2022-05-12 08:34:50.4|Info|RssSyncService|RSS Sync Completed. Reports found: 66, Reports grabbed: 0
+2022-05-12 08:50:18.3|Info|RssSyncService|Starting RSS Sync
+2022-05-12 08:50:18.4|Info|DownloadDecisionMaker|Processing 66 releases
+2022-05-12 08:50:18.6|Info|RssSyncService|RSS Sync Completed. Reports found: 66, Reports grabbed: 0
+2022-05-12 09:05:25.6|Info|RssSyncService|Starting RSS Sync
+2022-05-12 09:05:25.7|Info|DownloadDecisionMaker|Processing 66 releases
+2022-05-12 09:05:25.9|Info|RssSyncService|RSS Sync Completed. Reports found: 66, Reports grabbed: 0
+2022-05-12 09:20:26.2|Info|RssSyncService|Starting RSS Sync
+2022-05-12 09:20:28.3|Info|DownloadDecisionMaker|Processing 67 releases
+2022-05-12 09:20:28.5|Info|RssSyncService|RSS Sync Completed. Reports found: 67, Reports grabbed: 0
+2022-05-12 09:32:26.8|Info|SceneMappingService|Updating Scene mappings
+2022-05-12 09:35:57.0|Info|RssSyncService|Starting RSS Sync
+2022-05-12 09:35:57.0|Info|DownloadDecisionMaker|Processing 67 releases
+2022-05-12 09:35:57.2|Info|RssSyncService|RSS Sync Completed. Reports found: 67, Reports grabbed: 0
+2022-05-12 09:50:57.6|Info|RssSyncService|Starting RSS Sync
+2022-05-12 09:50:57.7|Info|DownloadDecisionMaker|Processing 67 releases
+2022-05-12 09:50:57.9|Info|RssSyncService|RSS Sync Completed. Reports found: 67, Reports grabbed: 0
+2022-05-12 10:05:58.2|Info|RssSyncService|Starting RSS Sync
+2022-05-12 10:06:00.6|Info|DownloadDecisionMaker|Processing 65 releases
+2022-05-12 10:06:00.8|Info|RssSyncService|RSS Sync Completed. Reports found: 65, Reports grabbed: 0
+2022-05-12 10:30:14.9|Info|RssSyncService|Starting RSS Sync
+2022-05-12 10:30:15.0|Info|DownloadDecisionMaker|Processing 65 releases
+2022-05-12 10:30:15.3|Info|RssSyncService|RSS Sync Completed. Reports found: 65, Reports grabbed: 0
+2022-05-12 10:45:15.7|Info|RssSyncService|Starting RSS Sync
+2022-05-12 10:45:18.9|Info|DownloadDecisionMaker|Processing 67 releases
+2022-05-12 10:45:19.3|Info|RssSyncService|RSS Sync Completed. Reports found: 67, Reports grabbed: 0
+2022-05-12 11:00:46.4|Info|RssSyncService|Starting RSS Sync
+2022-05-12 11:00:46.4|Info|DownloadDecisionMaker|Processing 67 releases
+2022-05-12 11:00:46.6|Info|RssSyncService|RSS Sync Completed. Reports found: 67, Reports grabbed: 0
+2022-05-12 11:15:47.1|Info|RssSyncService|Starting RSS Sync
+2022-05-12 11:15:47.1|Info|DownloadDecisionMaker|Processing 67 releases
+2022-05-12 11:15:47.3|Info|RssSyncService|RSS Sync Completed. Reports found: 67, Reports grabbed: 0
+2022-05-12 11:30:47.7|Info|RssSyncService|Starting RSS Sync
+2022-05-12 11:30:50.4|Info|DownloadDecisionMaker|Processing 66 releases
+2022-05-12 11:30:50.6|Info|RssSyncService|RSS Sync Completed. Reports found: 66, Reports grabbed: 0

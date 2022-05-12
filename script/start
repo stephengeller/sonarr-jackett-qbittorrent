@@ -2,11 +2,11 @@
 
 set -e
 
-NETWORK_VOLUME_PATH="/Volumes/SG WD 2TB S"
+NETWORK_VOLUME_PATH=${1:-"/Volumes/SG WD 2TB S"}
 
 # Check that the drive is mounted
 if ! (mount | grep "on ${NETWORK_VOLUME_PATH}" > /dev/null); then
-    echo "ERROR: Please mount the external drive to ${NETWORK_VOLUME_PATH}"
+    echo -e "\033[31;1mERROR: \033[0;31mPlease mount the external drive to ${NETWORK_VOLUME_PATH}\033[0m"
     exit 1
 fi
 
