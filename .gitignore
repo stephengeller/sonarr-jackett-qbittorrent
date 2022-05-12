@@ -2,3 +2,5 @@
 
 
 qbittorrent/config/qBittorrent/BT_backup
+log.*
+*.log

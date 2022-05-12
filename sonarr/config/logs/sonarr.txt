@@ -2775,3 +2775,20 @@
 2022-05-12 11:30:47.7|Info|RssSyncService|Starting RSS Sync
 2022-05-12 11:30:50.4|Info|DownloadDecisionMaker|Processing 66 releases
 2022-05-12 11:30:50.6|Info|RssSyncService|RSS Sync Completed. Reports found: 66, Reports grabbed: 0
+2022-05-12 11:46:18.9|Info|RssSyncService|Starting RSS Sync
+2022-05-12 11:46:19.0|Info|DownloadDecisionMaker|Processing 66 releases
+2022-05-12 11:46:19.2|Info|RssSyncService|RSS Sync Completed. Reports found: 66, Reports grabbed: 0
+2022-05-12 12:01:19.5|Info|RssSyncService|Starting RSS Sync
+2022-05-12 12:01:19.6|Info|DownloadDecisionMaker|Processing 66 releases
+2022-05-12 12:01:19.8|Info|RssSyncService|RSS Sync Completed. Reports found: 66, Reports grabbed: 0
+2022-05-12 12:20:38.4|Info|Bootstrap|Starting Sonarr - /app/sonarr/bin/Sonarr.exe - Version 3.0.8.1507
+2022-05-12 12:20:38.6|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2022-05-12 12:20:38.7|Info|Router|Application mode: Interactive
+2022-05-12 12:20:38.8|Info|MigrationLogger|*** Checking database for required migrations data source=/config/sonarr.db;cache size=-10000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2022-05-12 12:20:39.1|Info|MigrationLogger|*** Checking database for required migrations data source=/config/logs.db;cache size=-10000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2022-05-12 12:20:39.3|Info|OwinHostController|Listening on the following URLs:
+2022-05-12 12:20:39.3|Info|OwinHostController|  http://*:8989/
+2022-05-12 12:20:39.6|Info|SonarrBootstrapper|Starting Web Server
+2022-05-12 12:21:10.4|Info|RssSyncService|Starting RSS Sync
+2022-05-12 12:21:13.2|Info|DownloadDecisionMaker|Processing 67 releases
+2022-05-12 12:21:13.4|Info|RssSyncService|RSS Sync Completed. Reports found: 67, Reports grabbed: 0

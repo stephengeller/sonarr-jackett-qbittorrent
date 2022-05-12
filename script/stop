@@ -2,5 +2,10 @@
 
 set -e
 
+NETWORK_VOLUME_PATH=${1:-"/Volumes/SG WD 2TB S"}
+QBITTORRENT_DOWNLOAD_PATH=~${2:"/Downloads/Torrents/qbittorrent"}
+
 # Turn off services
-docker-compose down
+NETWORK_VOLUME_PATH="${NETWORK_VOLUME_PATH}" \
+  QBITTORRENT_DOWNLOAD_PATH="${QBITTORRENT_DOWNLOAD_PATH}" \
+  docker-compose down

@@ -27,7 +27,6 @@ services:
 #      - AUTO_UPDATE=true #optional
 #      - RUN_OPTS=<run options here> #optional
     volumes:
-#      - ./jackett/config:/config
       - ./jackett-config:/config
       - "${NETWORK_VOLUME_PATH}/Jackett:/downloads/jackett"
     ports:
@@ -46,7 +45,7 @@ services:
       - WEBUI_PORT=8080
     volumes:
       - ./qbittorrent/config:/config
-      - ~/Downloads/Torrents/qbittorrent:/downloads
+      - "${QBITTORRENT_DOWNLOAD_PATH}:/downloads"
       - "${NETWORK_VOLUME_PATH}/Plex/TV:/Plex/TV"
     ports:
       - 8080:8080
