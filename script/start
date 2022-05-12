@@ -20,7 +20,7 @@ fi
 # sudo chmod 777 ~/Downloads/Torrents/qbittorrent
 
 # Spin up services
-NETWORK_VOLUME_PATH="${NETWORK_VOLUME_PATH}" \
+sudo NETWORK_VOLUME_PATH="${NETWORK_VOLUME_PATH}" \
   QBITTORRENT_DOWNLOAD_PATH="${QBITTORRENT_DOWNLOAD_PATH}" \
   docker-compose up -d
 

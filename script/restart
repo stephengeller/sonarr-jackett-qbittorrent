@@ -11,4 +11,4 @@ if ! (mount | grep "on ${NETWORK_VOLUME_PATH}" > /dev/null); then
 fi
 
 # Spin up services
-NETWORK_VOLUME_PATH="${NETWORK_VOLUME_PATH}" docker-compose up -d --force-recreate --build
+sudo NETWORK_VOLUME_PATH="${NETWORK_VOLUME_PATH}" QBITTORRENT_DOWNLOAD_PATH="${QBITTORRENT_DOWNLOAD_PATH}" docker-compose up -d --force-recreate --build
