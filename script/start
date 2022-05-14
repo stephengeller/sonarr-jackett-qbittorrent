@@ -2,23 +2,26 @@
 
 set -eo pipefail
 
-DEFAULT_NETWORK_VOLUME_PATH="/Volumes/SG WD 2TB S"
-DEFAULT_QBITTORRENT_DOWNLOAD_PATH="/Users/stephengeller/Downloads/Torrents/qbittorrent"
+RED="\033[31m"
+NC="\033[0m"
 
-export NETWORK_VOLUME_PATH=${1:-${DEFAULT_NETWORK_VOLUME_PATH}}
-export QBITTORRENT_DOWNLOAD_PATH=${2:-${DEFAULT_QBITTORRENT_DOWNLOAD_PATH}}
+PLEX_LIBRARY_PATH=$1
+QBITTORRENT_DOWNLOAD_PATH=$2
 
-echo NETWORK_VOLUME_PATH: "$NETWORK_VOLUME_PATH"
-echo QBITTORRENT_DOWNLOAD_PATH: "$QBITTORRENT_DOWNLOAD_PATH"
+if [[ -z $PLEX_LIBRARY_PATH || -z $QBITTORRENT_DOWNLOAD_PATH  ]]; then
+  echo -e "${RED}Please pass the path to the Plex library and"
+  echo -e "somewhere for qbittorrent to download files"
+  echo -e "e.g. ./script/start /Volumes/Plex /Downloads/qbittorrent${NC}"
+  exit 1
+fi
 
-# Check that the drive is mounted
-if ! (mount | grep "on ${NETWORK_VOLUME_PATH}" > /dev/null); then
-    echo -e "\033[31;1mERROR: \033[0;31mPlease mount the external drive to ${NETWORK_VOLUME_PATH}\033[0m"
-    exit 1
+if [ ! -d "$PLEX_LIBRARY_PATH" ]; then
+  echo -e "\033[31;1mERROR: \033[0;31mPlex path \"${PLEX_LIBRARY_PATH}\" does not exist\033[0m"
+  exit 1
 fi
 
 if [ ! -d "$QBITTORRENT_DOWNLOAD_PATH" ]; then
-  echo -e "\033[31;1mERROR: \033[0;31mTemporary download path ${QBITTORRENT_DOWNLOAD_PATH} does not exist\033[0m"
+  echo -e "\033[31;1mERROR: \033[0;31mqBitTorrent download path \"${QBITTORRENT_DOWNLOAD_PATH}\" does not exist\033[0m"
   exit 1
 fi
 
@@ -26,7 +29,7 @@ fi
 # sudo chmod 777 ~/Downloads/Torrents/qbittorrent
 
 # Spin up services
-sudo NETWORK_VOLUME_PATH="${NETWORK_VOLUME_PATH}" QBITTORRENT_DOWNLOAD_PATH="${QBITTORRENT_DOWNLOAD_PATH}" docker-compose up -d
+sudo PLEX_LIBRARY_PATH="${PLEX_LIBRARY_PATH}" QBITTORRENT_DOWNLOAD_PATH="${QBITTORRENT_DOWNLOAD_PATH}" docker-compose up -d
 
 # Open websites
 #open http://localhost:8989

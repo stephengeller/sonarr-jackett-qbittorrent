@@ -1,6 +1,25 @@
 .idea
 
-
-qbittorrent/config/qBittorrent/BT_backup
 log.*
+logs.*
 *.log
+
+# Sonarr
+sonarr/config/logs
+sonarr/config/MediaCover
+sonarr/config/*.db
+sonarr/config/*.db*
+sonarr/config/.config
+
+# Jackett
+jackett-config/Jackett/DataProtection
+jackett-config/Jackett/Indexers
+
+# qBitTorrent
+qbittorrent/config/qBittorrent/BT_backup
+qbittorrent/config/qBittorrent/BT_backup/*
+qbittorrent/config/qBittorrent/logs
+qbittorrent/config/qBittorrent/logs/*
+qbittorrent/config/qBittorrent/GeoDB
+qbittorrent/config/qBittorrent/categories.json
+qbittorrent/config/.cache

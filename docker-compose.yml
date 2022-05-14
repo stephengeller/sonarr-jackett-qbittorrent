@@ -10,10 +10,10 @@ services:
       - TZ=Europe/London
     volumes:
       - ./sonarr/config:/config
-      - "${NETWORK_VOLUME_PATH}/Plex/TV:/Plex/TV"
+      - "${PLEX_LIBRARY_PATH}/Plex/TV:/Plex/TV"
       - "${QBITTORRENT_DOWNLOAD_PATH}:/downloads"
     ports:
-      - 8989:8989
+      - "8989:8989"
     restart: unless-stopped
 
 
@@ -28,9 +28,9 @@ services:
 #      - RUN_OPTS=<run options here> #optional
     volumes:
       - ./jackett-config:/config
-      - "${NETWORK_VOLUME_PATH}/Jackett:/downloads/jackett"
+      - "${PLEX_LIBRARY_PATH}/Jackett:/downloads/jackett"
     ports:
-      - 9117:9117
+      - "9117:9117"
     restart: unless-stopped
 
 
@@ -46,7 +46,7 @@ services:
     volumes:
       - ./qbittorrent/config:/config
       - "${QBITTORRENT_DOWNLOAD_PATH}:/downloads"
-      - "${NETWORK_VOLUME_PATH}/Plex/TV:/Plex/TV"
+      - "${PLEX_LIBRARY_PATH}/Plex/TV:/Plex/TV"
     ports:
       - "8080:8080"
       - "6881:6881"

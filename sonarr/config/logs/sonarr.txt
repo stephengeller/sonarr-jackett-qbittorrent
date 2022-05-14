@@ -2872,3 +2872,11 @@
 2022-05-12 13:10:22.6|Info|RefreshEpisodeService|Starting episode info refresh for: [366524][Halo]
 2022-05-12 13:10:22.7|Info|RefreshEpisodeService|Finished episode refresh for series: [366524][Halo].
 2022-05-12 13:10:22.7|Info|DiskScanService|Scanning Halo
+2022-05-14 05:07:29.0|Info|Bootstrap|Starting Sonarr - /app/sonarr/bin/Sonarr.exe - Version 3.0.8.1507
+2022-05-14 05:07:29.2|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2022-05-14 05:07:29.3|Info|Router|Application mode: Interactive
+2022-05-14 05:07:29.5|Info|MigrationLogger|*** Checking database for required migrations data source=/config/sonarr.db;cache size=-10000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2022-05-14 05:07:29.6|Info|MigrationLogger|*** Checking database for required migrations data source=/config/logs.db;cache size=-10000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2022-05-14 05:07:29.8|Info|OwinHostController|Listening on the following URLs:
+2022-05-14 05:07:29.8|Info|OwinHostController|  http://*:8989/
+2022-05-14 05:07:30.1|Info|SonarrBootstrapper|Starting Web Server
