@@ -10,6 +10,7 @@ sonarr/config/MediaCover
 sonarr/config/*.db
 sonarr/config/*.db*
 sonarr/config/.config
+sonarr/config/sonarr.pid
 
 # Jackett
 jackett-config/Jackett/DataProtection
@@ -22,4 +23,7 @@ qbittorrent/config/qBittorrent/logs
 qbittorrent/config/qBittorrent/logs/*
 qbittorrent/config/qBittorrent/GeoDB
 qbittorrent/config/qBittorrent/categories.json
+qbittorrent/config/qBittorrent/rss
+qbittorrent/config/qBittorrent/qBittorrent-data.conf
+qbittorrent/config/qBittorrent/lockfile
 qbittorrent/config/.cache

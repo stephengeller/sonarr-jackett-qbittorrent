@@ -31,6 +31,16 @@ Once everything is spun up successfully, you can go ahead and configure Sonarr t
 
 When configuring these, it's important to remember that the URL for each app is the name of the app itself (e.g. `http://jackett:8989`) rather than localhost, since that's how docker-compose configures the network.
 
+### QBitTorrent
+
+Default username and password is:
+username: **admin**
+password: **adminadmin**
+
+### Jackett
+
+Set this up via Torznap in Sonarr
+
 ## Optional extras
 
 ### Start up on boot (linux)
