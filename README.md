@@ -3,7 +3,8 @@
 ## Setup 
 
 1. Install Docker and docker-compose
-2. (optional) [mount a network drive if using network storage](https://linuxtect.com/how-to-mount-cifs-windows-share-in-linux/)
+2. (optional) [mount a network drive if using network storage for your Plex files](https://linuxtect.com/how-to-mount-cifs-windows-share-in-linux/) if your Plex server/storage is on another device
+3. Work out the directory for your Plex (to import to) and QBitTorrent (to download to first) files, and **make sure that any user can write to those folders (e.g. `chmod -R a+rw /path/to/dir`)**
 
 ## Start
 
@@ -37,9 +38,11 @@ Default username and password is:
 username: **admin**
 password: **adminadmin**
 
+Set this up as a Download Client in Sonarr, pointing to `qbittorrent:8080` as the base URL.
+
 ### Jackett
 
-Set this up via Torznap in Sonarr
+Set this up as an indexer via Torznap in Sonarr, pointing to `jackett:9117` as the base URL.
 
 ## Optional extras
 
