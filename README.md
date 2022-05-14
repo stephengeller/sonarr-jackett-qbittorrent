@@ -50,9 +50,10 @@ Set this up as an indexer via Torznap in Sonarr, pointing to `jackett:9117` as t
 
 You can use `systemd` to get these services spun up on boot. 
 
-1. First, copy `sonarr.service` to `/etc/systemd/system/sonarr.service`.
-2. Then, run `systemctl enable sonarr.service` to enable it at boot
-3. Restart your device and check that it is running on reboot (you can use `systemctl status sonarr`)
+1. First, edit `sonarr.service` to use the correct paths to this repository on your device
+2. Copy `sonarr.service` to `/etc/systemd/system/sonarr.service`.
+3. Then, run `systemctl enable sonarr.service` to enable it at boot
+4. Restart your device and check that it is running on reboot (you can use `systemctl status sonarr`)
 
 ### Mount network drive on boot (linux)
 
