@@ -28,9 +28,13 @@ All of your personal configuration should be created automatically and stored wi
 
 ## Configuration
 
-Once everything is spun up successfully, you can go ahead and configure Sonarr to use Jackett as an indexer and qBitTorrent as a downloader.
+Once everything is spun up successfully, you can go ahead and configure Sonarr to use Jackett as an indexer and qBitTorrent as a downloader. Configuration will persist across starts/stops, since the configuration is written and stored locally in this repository.
 
 When configuring these, it's important to remember that the URL for each app is the name of the app itself (e.g. `http://jackett:8989`) rather than localhost, since that's how docker-compose configures the network.
+
+### Media Management
+
+Add `/Plex/<whatever you want>` as a root folder for Sonarr, as this maps to whatever you've set as your Plex folder.
 
 ### QBitTorrent
 
