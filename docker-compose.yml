@@ -51,3 +51,18 @@ services:
       - "6881:6881"
       - "6881:6881/udp"
     restart: unless-stopped
+
+  radarr:
+    image: lscr.io/linuxserver/radarr:latest
+    container_name: radarr
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Europe/London
+    volumes:
+      - ./radarr/config:/config
+      - "${PLEX_LIBRARY_PATH}:/Plex"
+      - "${QBITTORRENT_DOWNLOAD_PATH}:/downloads"
+    ports:
+      - "7878:7878"
+    restart: unless-stopped

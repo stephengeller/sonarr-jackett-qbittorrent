@@ -12,3 +12,6 @@ jackett-config/*
 
 # qBitTorrent
 qbittorrent/config/*
+
+# Radarr
+radarr/config/*
